@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="de" data-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MusikLearn - Klausurvorbereitung 12. Klasse</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Top Bar -->
+    <header class="topbar" id="topbar">
+        <div class="topbar-left">
+            <span class="logo">MusikLearn</span>
+        </div>
+        <div class="topbar-center" id="timerBar" style="display:none;">
+            <div class="timer-display">
+                <span id="timerIcon" class="timer-icon"></span>
+                <span id="timerText">00:00</span>
+                <span id="blockLabel" class="block-label"></span>
+            </div>
+            <div class="progress-bar-container">
+                <div class="progress-bar" id="progressBar"></div>
+            </div>
+        </div>
+        <div class="topbar-right">
+            <button class="icon-btn" id="themeToggle" onclick="toggleTheme()" title="Design wechseln">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="5"/><path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/></svg>
+            </button>
+        </div>
+    </header>
+
+    <!-- Guided Mode Controls (shown during guided learning) -->
+    <div class="guided-controls" id="guidedControls" style="display:none;">
+        <button class="ctrl-btn" onclick="pauseResume()"><span id="pauseIcon">||</span> <span id="pauseLabel">Pause</span></button>
+        <button class="ctrl-btn" onclick="repeatBlock()">Wiederholen</button>
+        <button class="ctrl-btn" onclick="skipBlock()">Weiter</button>
+        <button class="ctrl-btn danger" onclick="endGuided()">Beenden</button>
+    </div>
+
+    <main class="container" id="mainContainer">
+
+        <!-- ==================== HOME ==================== -->
+        <section id="home" class="page active">
+            <div class="hero">
+                <h1>Musikklausur</h1>
+                <p class="subtitle">12. Klasse - Romantik, Schubert, Kunstlied & Analyse</p>
+            </div>
+            <div class="home-grid">
+                <div class="home-card primary" onclick="startGuided(30)">
+                    <div class="card-icon">30</div>
+                    <h3>30 Min lernen</h3>
+                    <p>Kompakt durch alle Themen</p>
+                </div>
+                <div class="home-card primary" onclick="startGuided(45)">
+                    <div class="card-icon">45</div>
+                    <h3>45 Min lernen</h3>
+                    <p>Ausfuehrlich mit mehr Zeit</p>
+                </div>
+                <div class="home-card" onclick="showPage('lernzettel')">
+                    <div class="card-icon-sm">&#x1F4CB;</div>
+                    <h3>Lernzettel</h3>
+                </div>
+                <div class="home-card" onclick="showPage('karteikarten')">
+                    <div class="card-icon-sm">&#x1F4C7;</div>
+                    <h3>Karteikarten</h3>
+                </div>
+                <div class="home-card" onclick="showPage('hoertrainer')">
+                    <div class="card-icon-sm">&#x1F3B5;</div>
+                    <h3>Hoerbeispiele</h3>
+                </div>
+                <div class="home-card" onclick="startExam()">
+                    <div class="card-icon-sm">&#x1F4DD;</div>
+                    <h3>Probeklausur</h3>
+                </div>
+                <div class="home-card" onclick="startErrorTraining()">
+                    <div class="card-icon-sm">&#x1F504;</div>
+                    <h3>Fehler wiederholen</h3>
+                </div>
+                <div class="home-card" onclick="startQuickReview()">
+                    <div class="card-icon-sm">&#x26A1;</div>
+                    <h3>5-Min-Wiederholung</h3>
+                </div>
+            </div>
+            <div class="stats-bar" id="statsBar" style="display:none;">
+                <span id="statsText"></span>
+            </div>
+        </section>
+
+        <!-- ==================== LERNZETTEL ==================== -->
+        <section id="lernzettel" class="page">
+            <button class="back-btn" onclick="showPage('home')">&larr; Zurueck</button>
+            <h1>Kompakter Lernzettel</h1>
+            <div class="tabs" id="lernzettelTabs">
+                <button class="tab active" onclick="showTab('lz','romantik',this)">Romantik</button>
+                <button class="tab" onclick="showTab('lz','schubert',this)">Schubert</button>
+                <button class="tab" onclick="showTab('lz','kunstlied',this)">Kunstlied</button>
+                <button class="tab" onclick="showTab('lz','analyse',this)">Analyse</button>
+                <button class="tab" onclick="showTab('lz','hoerbeispiele',this)">Hoerbeispiele</button>
+            </div>
+            <div id="lz-romantik" class="tab-content active"></div>
+            <div id="lz-schubert" class="tab-content"></div>
+            <div id="lz-kunstlied" class="tab-content"></div>
+            <div id="lz-analyse" class="tab-content"></div>
+            <div id="lz-hoerbeispiele" class="tab-content"></div>
+        </section>
+
+        <!-- ==================== KARTEIKARTEN ==================== -->
+        <section id="karteikarten" class="page">
+            <button class="back-btn" onclick="showPage('home')">&larr; Zurueck</button>
+            <h1>Karteikarten</h1>
+            <div class="flashcard-controls">
+                <span id="fcProgress">1 / 30</span>
+                <div class="fc-filter">
+                    <button class="tab active" onclick="filterCards('all',this)">Alle</button>
+                    <button class="tab" onclick="filterCards('unknown',this)">Unsicher</button>
+                    <button class="tab" onclick="filterCards('known',this)">Sicher</button>
+                </div>
+            </div>
+            <div class="flashcard-container" id="flashcardContainer">
+                <div class="flashcard" id="flashcard" onclick="flipCard()">
+                    <div class="fc-front" id="fcFront"></div>
+                    <div class="fc-back" id="fcBack"></div>
+                </div>
+            </div>
+            <div class="fc-buttons">
+                <button class="fc-btn red" onclick="markCard('unknown')">Kann ich noch nicht</button>
+                <button class="fc-btn green" onclick="markCard('known')">Kann ich</button>
+            </div>
+            <div class="fc-nav">
+                <button class="ctrl-btn" onclick="prevCard()">&larr; Zurueck</button>
+                <button class="ctrl-btn" onclick="nextCard()">Weiter &rarr;</button>
+            </div>
+        </section>
+
+        <!-- ==================== HOERTRAINER ==================== -->
+        <section id="hoertrainer" class="page">
+            <button class="back-btn" onclick="showPage('home')">&larr; Zurueck</button>
+            <h1>Hoerbeispiele & Hoertrainer</h1>
+            <div class="tabs">
+                <button class="tab active" onclick="showTab('ht','karten',this)">Lernkarten</button>
+                <button class="tab" onclick="showTab('ht','test',this)">Hoertest</button>
+            </div>
+            <div id="ht-karten" class="tab-content active" ></div>
+            <div id="ht-test" class="tab-content"></div>
+        </section>
+
+        <!-- ==================== GUIDED LEARNING ==================== -->
+        <section id="guided" class="page">
+            <div id="guidedContent"></div>
+        </section>
+
+        <!-- ==================== EXAM / PROBEKLAUSUR ==================== -->
+        <section id="exam" class="page">
+            <button class="back-btn" onclick="confirmExit()">&larr; Abbrechen</button>
+            <h1 id="examTitle">Probeklausur</h1>
+            <div id="examContent"></div>
+        </section>
+
+        <!-- ==================== RESULTS ==================== -->
+        <section id="results" class="page">
+            <div id="resultsContent"></div>
+        </section>
+
+    </main>
+
+    <script src="app.js"></script>
+</body>
+</html>
