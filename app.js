@@ -42,45 +42,45 @@ const topics = {
 <div class="info-card">
     <h2>Zeitliche Einordnung</h2>
     <p>Die musikalische Romantik umfasst etwa den Zeitraum von <strong>1820 bis 1910</strong>.</p>
-    <p>Sie folgt auf die Wiener Klassik (Haydn, Mozart, Beethoven) und wird von der Moderne abgeloest.</p>
+    <p>Sie folgt auf die Wiener Klassik (Haydn, Mozart, Beethoven) und wird von der Moderne abgelöst.</p>
     <ul>
-        <li><strong>Fruehromantik:</strong> ca. 1820-1850 (Schubert, Mendelssohn, Schumann, Chopin)</li>
+        <li><strong>Frühromantik:</strong> ca. 1820-1850 (Schubert, Mendelssohn, Schumann, Chopin)</li>
         <li><strong>Hochromantik:</strong> ca. 1850-1890 (Wagner, Brahms, Bruckner, Tschaikowski)</li>
-        <li><strong>Spaetromantik:</strong> ca. 1890-1910 (Mahler, Richard Strauss, Elgar)</li>
+        <li><strong>Spätromantik:</strong> ca. 1890-1910 (Mahler, Richard Strauss, Elgar)</li>
     </ul>
 </div>
 <div class="info-card">
     <h2>Historischer Hintergrund</h2>
     <ul>
         <li>Industrialisierung und technischer Fortschritt</li>
-        <li>Politische Umbrueche: Franzoesische Revolution, Restauration, Revolution 1848</li>
-        <li>Aufkommen des Buergertums als Traeger der Musikkultur</li>
-        <li>Oeffentliche Konzerte statt hoefischer Musik</li>
-        <li>Reaktion gegen die Vernunft der Aufklaerung</li>
+        <li>Politische Umbrüche: Französische Revolution, Restauration, Revolution 1848</li>
+        <li>Aufkommen des Bürgertums als Träger der Musikkultur</li>
+        <li>Öffentliche Konzerte statt höfischer Musik</li>
+        <li>Reaktion gegen die Vernunft der Aufklärung</li>
     </ul>
 </div>
 <div class="info-card">
     <h2>Merkmale der Romantik</h2>
-    <div class="highlight-box">Zentrale Themen: <strong>Gefuehl, Natur, Sehnsucht, Fantasie, das Unendliche, Nacht und Traum</strong></div>
+    <div class="highlight-box">Zentrale Themen: <strong>Gefühl, Natur, Sehnsucht, Fantasie, das Unendliche, Nacht und Traum</strong></div>
     <ul>
-        <li><strong>Subjektivitaet:</strong> Persoenliche Gefuehle und Empfindungen stehen im Mittelpunkt</li>
+        <li><strong>Subjektivität:</strong> Persönliche Gefühle und Empfindungen stehen im Mittelpunkt</li>
         <li><strong>Sehnsucht:</strong> Streben nach dem Unerreichbaren, der Ferne, dem Idealen</li>
-        <li><strong>Natur:</strong> Natur als Spiegel der Seele und Ausdruck innerer Gefuehle</li>
-        <li><strong>Fantasie:</strong> Maerchen, Sagen, das Uebernatuerliche</li>
-        <li><strong>Verbindung der Kuenste:</strong> Musik, Literatur und Malerei beeinflussen sich gegenseitig</li>
+        <li><strong>Natur:</strong> Natur als Spiegel der Seele und Ausdruck innerer Gefühle</li>
+        <li><strong>Fantasie:</strong> Märchen, Sagen, das Übernatürliche</li>
+        <li><strong>Verbindung der Künste:</strong> Musik, Literatur und Malerei beeinflussen sich gegenseitig</li>
     </ul>
 </div>
 <div class="info-card">
     <h2>Typische musikalische Merkmale</h2>
     <ul>
-        <li><strong>Ausdrucksstarke Melodien:</strong> Grosse Intervalle, gesangliche Linien, weitgespannte Boegen</li>
-        <li><strong>Erweiterte Harmonik:</strong> Chromatik, ueberraschende Modulationen, verminderte Akkorde</li>
+        <li><strong>Ausdrucksstarke Melodien:</strong> Große Intervalle, gesangliche Linien, weitgespannte Bögen</li>
+        <li><strong>Erweiterte Harmonik:</strong> Chromatik, überraschende Modulationen, verminderte Akkorde</li>
         <li><strong>Extreme Dynamik:</strong> Von ppp bis fff, starke Kontraste</li>
-        <li><strong>Freie Formen:</strong> Sinfonische Dichtung, Charakterstueck, Kunstlied</li>
-        <li><strong>Groessere Orchester:</strong> Mehr Instrumente, neue Klangfarben</li>
-        <li><strong>Virtuositaet:</strong> Technisch anspruchsvolle Solostimmen</li>
+        <li><strong>Freie Formen:</strong> Sinfonische Dichtung, Charakterstück, Kunstlied</li>
+        <li><strong>Grössere Orchester:</strong> Mehr Instrumente, neü Klangfarben</li>
+        <li><strong>Virtuosität:</strong> Technisch anspruchsvolle Solostimmen</li>
         <li><strong>Rubato:</strong> Freier Umgang mit dem Tempo zur Steigerung des Ausdrucks</li>
-        <li><strong>Programmatik:</strong> Musik erzaehlt Geschichten oder beschreibt Bilder</li>
+        <li><strong>Programmatik:</strong> Musik erzählt Geschichten oder beschreibt Bilder</li>
     </ul>
 </div>
 <div class="info-card">
@@ -108,17 +108,17 @@ const topics = {
         <li>Gestorben am 19. November 1828 in Wien (mit nur <strong>31 Jahren</strong>)</li>
         <li>Steht an der Schwelle zwischen <strong>Wiener Klassik und Romantik</strong></li>
         <li>Gilt als der bedeutendste Vertreter des <strong>Kunstliedes</strong></li>
-        <li>Komponierte ueber <strong>600 Lieder</strong>, 9 Sinfonien, Kammermusik, Klavierwerke</li>
-        <li>Lebte in bescheidenen Verhaeltnissen, nie eine feste Anstellung</li>
-        <li>Wurde erst nach seinem Tod als grosser Komponist anerkannt</li>
+        <li>Komponierte über <strong>600 Lieder</strong>, 9 Sinfonien, Kammermusik, Klavierwerke</li>
+        <li>Lebte in bescheidenen Verhältnissen, nie eine feste Anstellung</li>
+        <li>Wurde erst nach seinem Tod als großer Komponist anerkannt</li>
     </ul>
 </div>
 <div class="info-card">
-    <h2>Bedeutung fuer das Kunstlied</h2>
-    <div class="highlight-box">Schubert machte das Kunstlied zu einer eigenstaendigen, gleichwertigen musikalischen Gattung.</div>
+    <h2>Bedeutung für das Kunstlied</h2>
+    <div class="highlight-box">Schubert machte das Kunstlied zu einer eigenständigen, gleichwertigen musikalischen Gattung.</div>
     <ul>
         <li>Klavier ist nicht nur Begleitung, sondern <strong>gleichwertiger Partner</strong> der Singstimme</li>
-        <li>Das Klavier malt Stimmungen, Naturbilder und Gefuehle (z.B. Wellenrauschen, Wind)</li>
+        <li>Das Klavier malt Stimmungen, Naturbilder und Gefühle (z.B. Wellenrauschen, Wind)</li>
         <li>Enge Verbindung von <strong>Musik und Text</strong>: Jedes Wort wird musikalisch gedeutet</li>
         <li>Verwendung verschiedener Liedformen je nach Textinhalt</li>
     </ul>
@@ -126,46 +126,46 @@ const topics = {
 <div class="info-card">
     <h2>Typische Merkmale seiner Musik</h2>
     <ul>
-        <li><strong>Melodisch:</strong> Einpraegsame, sangliche Melodien</li>
-        <li><strong>Harmonisch:</strong> Haeufiger Wechsel zwischen Dur und Moll (Mediantik)</li>
+        <li><strong>Melodisch:</strong> Einprägsame, sangliche Melodien</li>
+        <li><strong>Harmonisch:</strong> Häufiger Wechsel zwischen Dur und Moll (Mediantik)</li>
         <li><strong>Textausdeutung:</strong> Musik spiegelt den Inhalt des Textes wider</li>
-        <li><strong>Klavierbegleitung:</strong> Eigenstaendige, bildhafte Klavierparts</li>
+        <li><strong>Klavierbegleitung:</strong> Eigenständige, bildhafte Klavierparts</li>
         <li><strong>Stimmungswechsel:</strong> Schnelle Wechsel zwischen Hoffnung und Verzweiflung</li>
     </ul>
 </div>
 <div class="info-card">
     <h2>Wichtige Werke</h2>
     <ul>
-        <li><strong>Erlkoenig</strong> (1815) - Durchkomponiertes Lied, dramatisch</li>
+        <li><strong>Erlkönig</strong> (1815) - Durchkomponiertes Lied, dramatisch</li>
         <li><strong>Die Forelle</strong> - Variiertes Strophenlied</li>
-        <li><strong>Ave Maria</strong> - Feierlich, gebaetsartig</li>
-        <li><strong>Die schoene Muellerin</strong> (1823) - Liederzyklus, 20 Lieder</li>
+        <li><strong>Ave Maria</strong> - Feierlich, gebätsartig</li>
+        <li><strong>Die schöne Müllerin</strong> (1823) - Liederzyklus, 20 Lieder</li>
         <li><strong>Die Winterreise</strong> (1827) - Liederzyklus, 24 Lieder</li>
         <li><strong>Unvollendete Sinfonie</strong> (Nr. 8)</li>
     </ul>
 </div>
 <div class="info-card">
     <h2>Die Winterreise (1827)</h2>
-    <div class="highlight-box">Liederzyklus aus <strong>24 Liedern</strong> nach Gedichten von <strong>Wilhelm Mueller</strong>.</div>
+    <div class="highlight-box">Liederzyklus aus <strong>24 Liedern</strong> nach Gedichten von <strong>Wilhelm Müller</strong>.</div>
     <h3>Inhalt</h3>
     <ul>
         <li>Ein junger Mann wird von seiner Geliebten verlassen</li>
         <li>Er wandert im Winter einsam durch eine kalte, verschneite Landschaft</li>
-        <li>Die Reise wird zum Sinnbild fuer <strong>Einsamkeit, Schmerz und Hoffnungslosigkeit</strong></li>
-        <li>Endet mit dem Lied "Der Leiermann" - ohne Aufloesung, offen</li>
+        <li>Die Reise wird zum Sinnbild für <strong>Einsamkeit, Schmerz und Hoffnungslosigkeit</strong></li>
+        <li>Endet mit dem Lied "Der Leiermann" - ohne Auflösung, offen</li>
     </ul>
     <h3>Stimmung</h3>
     <ul>
-        <li>Durchgehend <strong>duester, melancholisch, verzweifelt</strong></li>
-        <li>Motive: Kaelte, Einsamkeit, Vergaenglichkeit, Tod</li>
-        <li>Wenige Momente der Hoffnung (z.B. "Fruehlingstraum"), die sofort zerstoert werden</li>
+        <li>Durchgehend <strong>düster, melancholisch, verzweifelt</strong></li>
+        <li>Motive: Kälte, Einsamkeit, Vergänglichkeit, Tod</li>
+        <li>Wenige Momente der Hoffnung (z.B. "Frühlingstraum"), die sofort zerstört werden</li>
     </ul>
     <h3>Musikalische Gestaltung</h3>
     <ul>
         <li><strong>Moll-Tonarten</strong> dominieren den gesamten Zyklus</li>
-        <li>Klavier malt Naturbilder: Wind, Eis, Kraehen, fliessende Traenen</li>
+        <li>Klavier malt Naturbilder: Wind, Eis, Krähen, fließende Tränen</li>
         <li>Sparsame, oft <strong>reduzierte Begleitung</strong> - Ausdruck innerer Leere</li>
-        <li>Wechsel von Dur und Moll spiegelt Hoffnung und Enttaeuschung wider</li>
+        <li>Wechsel von Dur und Moll spiegelt Hoffnung und Enttäuschung wider</li>
         <li>Verschiedene Liedformen: Strophenlieder und durchkomponierte Lieder</li>
     </ul>
 </div>`
@@ -176,8 +176,8 @@ const topics = {
         content: `
 <div class="info-card">
     <h2>Definition des Kunstliedes</h2>
-    <p>Ein <strong>Kunstlied</strong> ist ein Lied fuer Singstimme und Klavierbegleitung, das von einem bekannten Komponisten auf einen literarischen Text vertont wurde.</p>
-    <div class="highlight-box">Das Kunstlied verbindet <strong>Dichtung und Musik</strong> auf hoechstem kuenstlerischem Niveau. Es entstand im fruehen 19. Jahrhundert und ist eine zentrale Gattung der Romantik.</div>
+    <p>Ein <strong>Kunstlied</strong> ist ein Lied für Singstimme und Klavierbegleitung, das von einem bekannten Komponisten auf einen literarischen Text vertont wurde.</p>
+    <div class="highlight-box">Das Kunstlied verbindet <strong>Dichtung und Musik</strong> auf höchstem künstlerischem Niveau. Es entstand im frühen 19. Jahrhundert und ist eine zentrale Gattung der Romantik.</div>
 </div>
 <div class="info-card">
     <h2>Volkslied vs. Kunstlied</h2>
@@ -189,13 +189,13 @@ const topics = {
         </tr>
         <tr style="border-bottom:1px solid var(--border);">
             <td style="padding:0.5rem;">Komponist</td>
-            <td style="padding:0.5rem;">Unbekannt / muendlich ueberliefert</td>
+            <td style="padding:0.5rem;">Unbekannt / mündlich überliefert</td>
             <td style="padding:0.5rem;">Bekannter Komponist</td>
         </tr>
         <tr style="border-bottom:1px solid var(--border);">
             <td style="padding:0.5rem;">Text</td>
             <td style="padding:0.5rem;">Einfach, volkstumlich</td>
-            <td style="padding:0.5rem;">Literarische Lyrik (z.B. Goethe, Mueller)</td>
+            <td style="padding:0.5rem;">Literarische Lyrik (z.B. Göthe, Müller)</td>
         </tr>
         <tr style="border-bottom:1px solid var(--border);">
             <td style="padding:0.5rem;">Melodie</td>
@@ -210,13 +210,13 @@ const topics = {
         <tr>
             <td style="padding:0.5rem;">Funktion</td>
             <td style="padding:0.5rem;">Gemeinschaftliches Singen</td>
-            <td style="padding:0.5rem;">Kuenstlerischer Vortrag (Konzert)</td>
+            <td style="padding:0.5rem;">Künstlerischer Vortrag (Konzert)</td>
         </tr>
     </table>
 </div>
 <div class="info-card">
     <h2>1. Einfaches Strophenlied</h2>
-    <p>Alle Strophen werden mit <strong>derselben Melodie</strong> gesungen. Die Musik aendert sich nicht.</p>
+    <p>Alle Strophen werden mit <strong>derselben Melodie</strong> gesungen. Die Musik ändert sich nicht.</p>
     <div class="form-diagram">
         <div class="form-block a">A</div>
         <div class="form-arrow">|</div>
@@ -230,14 +230,14 @@ const topics = {
     <h3>Erkennungsmerkmale</h3>
     <ul>
         <li>Gleiche Melodie wiederholt sich in jeder Strophe</li>
-        <li>Einfache, einpraesame Struktur</li>
-        <li>Passt gut, wenn alle Strophen aehnliche Stimmung haben</li>
+        <li>Einfache, einpräsame Struktur</li>
+        <li>Passt gut, wenn alle Strophen ähnliche Stimmung haben</li>
     </ul>
-    <p><strong>Beispiel:</strong> Viele Volkslieder, Schubert: "Das Wandern" (Die schoene Muellerin)</p>
+    <p><strong>Beispiel:</strong> Viele Volkslieder, Schubert: "Das Wandern" (Die schöne Müllerin)</p>
 </div>
 <div class="info-card">
     <h2>2. Variiertes Strophenlied</h2>
-    <p>Die Grundmelodie bleibt erkennbar, wird aber in einzelnen Strophen <strong>leicht veraendert</strong> (z.B. Rhythmus, Begleitung, Dynamik).</p>
+    <p>Die Grundmelodie bleibt erkennbar, wird aber in einzelnen Strophen <strong>leicht verändert</strong> (z.B. Rhythmus, Begleitung, Dynamik).</p>
     <div class="form-diagram">
         <div class="form-block a">A</div>
         <div class="form-arrow">|</div>
@@ -251,14 +251,14 @@ const topics = {
     <h3>Erkennungsmerkmale</h3>
     <ul>
         <li>Melodie ist noch erkennbar, aber nicht mehr identisch</li>
-        <li>Variationen reagieren auf den veraenderten Textinhalt</li>
+        <li>Variationen reagieren auf den veränderten Textinhalt</li>
         <li>Kompromiss zwischen Einheit und Textanpassung</li>
     </ul>
     <p><strong>Beispiel:</strong> Schubert: "Die Forelle"</p>
 </div>
 <div class="info-card">
     <h2>3. Durchkomponiertes Lied</h2>
-    <p>Jede Strophe erhaelt <strong>neue, eigene Musik</strong>. Die Melodie folgt dem Textinhalt und veraendert sich staendig.</p>
+    <p>Jede Strophe erhält <strong>neü, eigene Musik</strong>. Die Melodie folgt dem Textinhalt und verändert sich ständig.</p>
     <div class="form-diagram">
         <div class="form-block a">A</div>
         <div class="form-arrow">|</div>
@@ -268,33 +268,33 @@ const topics = {
         <div class="form-arrow">|</div>
         <div class="form-block d">D</div>
     </div>
-    <p class="note">Jede Strophe hat eine andere Melodie - staendig neue Musik</p>
+    <p class="note">Jede Strophe hat eine andere Melodie - ständig neü Musik</p>
     <h3>Erkennungsmerkmale</h3>
     <ul>
         <li>Keine Wiederholung der Melodie</li>
-        <li>Musik reagiert auf jede Textaenderung individuell</li>
-        <li>Hoechste dramatische Wirkung</li>
-        <li>Typisch fuer dramatische oder erzaehlerische Texte</li>
+        <li>Musik reagiert auf jede Textänderung individuell</li>
+        <li>Höchste dramatische Wirkung</li>
+        <li>Typisch für dramatische oder erzählerische Texte</li>
     </ul>
-    <p><strong>Beispiel:</strong> Schubert: "Erlkoenig"</p>
+    <p><strong>Beispiel:</strong> Schubert: "Erlkönig"</p>
 </div>
 <div class="info-card">
     <h2>Bedeutung der Klavierbegleitung</h2>
     <ul>
         <li>Das Klavier ist <strong>gleichwertiger Partner</strong>, nicht nur Begleitung</li>
         <li>Es kann Naturbilder malen (z.B. Wasserplätschern, Pferdehufe, Wind)</li>
-        <li>Es drueckt Stimmungen aus, die im Text nicht direkt stehen</li>
-        <li>Es kann der Singstimme widersprechen oder sie ergaenzen</li>
-        <li>Vor- und Nachspiele rahmen das Lied ein und schaffen Atmosphaere</li>
+        <li>Es drückt Stimmungen aus, die im Text nicht direkt stehen</li>
+        <li>Es kann der Singstimme widersprechen oder sie ergänzen</li>
+        <li>Vor- und Nachspiele rahmen das Lied ein und schaffen Atmosphäre</li>
     </ul>
 </div>
 <div class="info-card">
-    <h2>Verhaeltnis Musik und Text</h2>
+    <h2>Verhältnis Musik und Text</h2>
     <ul>
-        <li><strong>Textausdeutung:</strong> Musik verstaerkt die Bedeutung des Textes</li>
-        <li><strong>Wortmalerei:</strong> Musikalische Nachahmung von im Text beschriebenen Klaengen</li>
-        <li>Hohe Toene bei "Himmel", "Freude" - tiefe Toene bei "Grab", "Trauer"</li>
-        <li>Schnelles Tempo bei Aufregung, langsames bei Trauer</li>
+        <li><strong>Textausdeutung:</strong> Musik verstärkt die Bedeutung des Textes</li>
+        <li><strong>Wortmalerei:</strong> Musikalische Nachahmung von im Text beschriebenen Klängen</li>
+        <li>Hohe Töne bei "Himmel", "Freude" - tiefe Töne bei "Grab", "Traür"</li>
+        <li>Schnelles Tempo bei Aufregung, langsames bei Traür</li>
         <li>Dur bei positiven, Moll bei negativen Textinhalten</li>
     </ul>
 </div>`
@@ -305,19 +305,19 @@ const topics = {
         content: `
 <div class="info-card">
     <h2>Analyseparameter</h2>
-    <p>Bei der musikalischen Analyse untersuchst du ein Musikstueck systematisch. Hier sind die wichtigsten Parameter:</p>
+    <p>Bei der musikalischen Analyse untersuchst du ein Musikstück systematisch. Hier sind die wichtigsten Parameter:</p>
 </div>
 <div class="info-card">
     <h2>Tempo</h2>
     <ul>
         <li><strong>Largo/Adagio:</strong> Sehr langsam - feierlich, traurig, getragen</li>
-        <li><strong>Andante:</strong> Gehend, maessig - ruhig, erzaehlerisch</li>
+        <li><strong>Andante:</strong> Gehend, mäßig - ruhig, erzählerisch</li>
         <li><strong>Allegro:</strong> Schnell - freudig, aufgeregt, dramatisch</li>
-        <li><strong>Presto:</strong> Sehr schnell - stuermisch, hektisch</li>
+        <li><strong>Presto:</strong> Sehr schnell - stürmisch, hektisch</li>
         <li><strong>Ritardando:</strong> Langsamer werdend</li>
         <li><strong>Accelerando:</strong> Schneller werdend</li>
     </ul>
-    <div class="highlight-box"><strong>Formulierung:</strong> "Das Stueck beginnt in einem langsamen Tempo (Adagio), was eine feierliche und getragene Stimmung erzeugt."</div>
+    <div class="highlight-box"><strong>Formulierung:</strong> "Das Stück beginnt in einem langsamen Tempo (Adagio), was eine feierliche und getragene Stimmung erzeugt."</div>
 </div>
 <div class="info-card">
     <h2>Dynamik</h2>
@@ -325,24 +325,24 @@ const topics = {
         <li><strong>pp (pianissimo):</strong> Sehr leise - intim, zart, geheimnissvoll</li>
         <li><strong>p (piano):</strong> Leise - ruhig, sanft</li>
         <li><strong>mf (mezzoforte):</strong> Mittelstark</li>
-        <li><strong>f (forte):</strong> Laut - kraeftig, bestimmt</li>
-        <li><strong>ff (fortissimo):</strong> Sehr laut - dramatisch, ueberwältigend</li>
+        <li><strong>f (forte):</strong> Laut - kräftig, bestimmt</li>
+        <li><strong>ff (fortissimo):</strong> Sehr laut - dramatisch, überwältigend</li>
         <li><strong>Crescendo:</strong> Lauter werdend - Steigerung, Spannung</li>
-        <li><strong>Decrescendo:</strong> Leiser werdend - Beruhigung, Rueckzug</li>
+        <li><strong>Decrescendo:</strong> Leiser werdend - Beruhigung, Rückzug</li>
     </ul>
     <div class="highlight-box"><strong>Formulierung:</strong> "Durch das Crescendo von piano zu fortissimo wird eine dramatische Steigerung erzeugt, die die zunehmende Verzweiflung des lyrischen Ichs verdeutlicht."</div>
 </div>
 <div class="info-card">
-    <h2>Melodie & Tonhoehe</h2>
+    <h2>Melodie & Tonhöhe</h2>
     <ul>
         <li><strong>Aufsteigende Melodie:</strong> Hoffnung, Freude, Streben</li>
-        <li><strong>Absteigende Melodie:</strong> Trauer, Resignation, Muedigkeit</li>
-        <li><strong>Grosse Spruenge:</strong> Dramatik, Aufregung, Ueberraschung</li>
-        <li><strong>Schrittweise Bewegung:</strong> Ruhe, Erzaehlung, Gleichmaessigkeit</li>
+        <li><strong>Absteigende Melodie:</strong> Traür, Resignation, Müdigkeit</li>
+        <li><strong>Große Sprünge:</strong> Dramatik, Aufregung, Überraschung</li>
+        <li><strong>Schrittweise Bewegung:</strong> Ruhe, Erzählung, Gleichmäßigkeit</li>
         <li><strong>Hohe Tonlage:</strong> Leichtigkeit, Helligkeit, Freude, Angst</li>
-        <li><strong>Tiefe Tonlage:</strong> Schwere, Dunkelheit, Trauer, Bedrohung</li>
+        <li><strong>Tiefe Tonlage:</strong> Schwere, Dunkelheit, Traür, Bedrohung</li>
     </ul>
-    <div class="highlight-box"><strong>Formulierung:</strong> "Die Melodie bewegt sich in einer hohen Tonlage und steigt mit grossen Intervallspruengen auf, was die Sehnsucht und das Streben nach dem Unerreichbaren musikalisch darstellt."</div>
+    <div class="highlight-box"><strong>Formulierung:</strong> "Die Melodie bewegt sich in einer hohen Tonlage und steigt mit großen Intervallsprüngen auf, was die Sehnsucht und das Streben nach dem Unerreichbaren musikalisch darstellt."</div>
 </div>
 <div class="info-card">
     <h2>Dur und Moll</h2>
@@ -351,26 +351,26 @@ const topics = {
         <li><strong>Moll:</strong> Dunkel, traurig, melancholisch, dramatisch, bedrohlich</li>
         <li><strong>Dur-Moll-Wechsel:</strong> Kontrast zwischen Hoffnung und Verzweiflung</li>
     </ul>
-    <div class="highlight-box"><strong>Formulierung:</strong> "Der ploetzliche Wechsel von Dur nach Moll verdeutlicht den Stimmungsumbruch: Die anfaengliche Hoffnung weicht der Ernuechterung."</div>
+    <div class="highlight-box"><strong>Formulierung:</strong> "Der plötzliche Wechsel von Dur nach Moll verdeutlicht den Stimmungsumbruch: Die anfängliche Hoffnung weicht der Ernüchterung."</div>
 </div>
 <div class="info-card">
     <h2>Rhythmus & Taktart</h2>
     <ul>
-        <li><strong>Gleichmaessiger Rhythmus:</strong> Ruhe, Ordnung, Marsch</li>
+        <li><strong>Gleichmäßiger Rhythmus:</strong> Ruhe, Ordnung, Marsch</li>
         <li><strong>Unruhiger Rhythmus:</strong> Aufregung, Angst, Dramatik</li>
-        <li><strong>Punktierter Rhythmus:</strong> Feierlich, marschmaessig</li>
+        <li><strong>Punktierter Rhythmus:</strong> Feierlich, marschmäßig</li>
         <li><strong>Synkopen:</strong> Spannung, Unruhe</li>
         <li><strong>3/4-Takt:</strong> Walzer, Tanz, Schwingen</li>
-        <li><strong>4/4-Takt:</strong> Marsch, Stabilitaet</li>
-        <li><strong>6/8-Takt:</strong> Wiegend, fliessend</li>
+        <li><strong>4/4-Takt:</strong> Marsch, Stabilität</li>
+        <li><strong>6/8-Takt:</strong> Wiegend, fließend</li>
     </ul>
 </div>
 <div class="info-card">
     <h2>Instrumentierung</h2>
     <ul>
         <li><strong>Streicher:</strong> Warm, emotional, gesanglich</li>
-        <li><strong>Holzblaeser:</strong> Pastoraler, natuerlicher Klang</li>
-        <li><strong>Blechblaeser:</strong> Feierlich, maechtig, heroisch, bedrohlich</li>
+        <li><strong>Holzbläser:</strong> Pastoraler, natürlicher Klang</li>
+        <li><strong>Blechbläser:</strong> Feierlich, mächtig, heroisch, bedrohlich</li>
         <li><strong>Pauken/Schlagwerk:</strong> Dramatisch, rhythmisch, spannungssteigernd</li>
         <li><strong>Klavier:</strong> Vielseitig - zart bis kraftvoll</li>
         <li><strong>Solovioline:</strong> Innig, emotional, klagend</li>
@@ -379,38 +379,38 @@ const topics = {
 <div class="info-card">
     <h2>Vertonung: Syllabisch vs. Melismatisch</h2>
     <ul>
-        <li><strong>Syllabisch:</strong> Jede Silbe = ein Ton. Wirkt klar, textverstaendlich, erzaehlerisch</li>
-        <li><strong>Melismatisch:</strong> Eine Silbe wird auf mehrere Toene gesungen. Wirkt ausdrucksstark, verzierend, emotional</li>
+        <li><strong>Syllabisch:</strong> Jede Silbe = ein Ton. Wirkt klar, textverständlich, erzählerisch</li>
+        <li><strong>Melismatisch:</strong> Eine Silbe wird auf mehrere Töne gesungen. Wirkt ausdrucksstark, verzierend, emotional</li>
     </ul>
-    <div class="highlight-box"><strong>Formulierung:</strong> "Die syllabische Vertonung betont die Textverstaendlichkeit und laesst die Worte klar hervortreten. Im Gegensatz dazu hebt die melismatische Vertonung bei dem Wort 'Sehnsucht' die emotionale Bedeutung hervor."</div>
+    <div class="highlight-box"><strong>Formulierung:</strong> "Die syllabische Vertonung betont die Textverständlichkeit und lässt die Worte klar hervortreten. Im Gegensatz dazu hebt die melismatische Vertonung bei dem Wort 'Sehnsucht' die emotionale Bedeutung hervor."</div>
 </div>
 <div class="info-card">
     <h2>Weitere Formulierungshilfen</h2>
     <ul>
         <li>"Die Musik erzeugt eine ... Stimmung durch ..."</li>
-        <li>"Der Komponist verwendet ..., um ... auszudruecken."</li>
-        <li>"Auffaellig ist ..., was auf ... hindeutet."</li>
+        <li>"Der Komponist verwendet ..., um ... auszudrücken."</li>
+        <li>"Auffällig ist ..., was auf ... hindeutet."</li>
         <li>"Im Kontrast dazu steht ..., wodurch ... betont wird."</li>
-        <li>"Die Begleitung unterstuetzt die Stimmung, indem ..."</li>
+        <li>"Die Begleitung unterstützt die Stimmung, indem ..."</li>
         <li>"Der Text wird durch ... musikalisch gedeutet."</li>
-        <li>"Durch die Verwendung von ... wird die Wirkung von ... verstaerkt."</li>
+        <li>"Durch die Verwendung von ... wird die Wirkung von ... verstärkt."</li>
     </ul>
 </div>
 <div class="info-card">
     <h2>Beispiel: Stimmung durch Musik</h2>
     <h3>Traurige Stimmung</h3>
     <p>Moll-Tonart + langsames Tempo + leise Dynamik + absteigende Melodie + tiefe Tonlage</p>
-    <h3>Froehliche Stimmung</h3>
+    <h3>Fröhliche Stimmung</h3>
     <p>Dur-Tonart + schnelles Tempo + mittlere bis laute Dynamik + aufsteigende Melodie + helle Tonlage</p>
     <h3>Dramatische Stimmung</h3>
-    <p>Moll-Tonart + schnelles Tempo + forte bis fortissimo + grosse Spruenge + Tremolo + Pauken</p>
+    <p>Moll-Tonart + schnelles Tempo + forte bis fortissimo + große Sprünge + Tremolo + Pauken</p>
     <h3>Feierliche Stimmung</h3>
-    <p>Dur-Tonart + langsames bis maessiges Tempo + forte + Blechblaeser + punktierter Rhythmus</p>
+    <p>Dur-Tonart + langsames bis mäßiges Tempo + forte + Blechbläser + punktierter Rhythmus</p>
 </div>`
     },
 
-    hoerbeispiele: {
-        title: 'Hoerbeispiele',
+    hörbeispiele: {
+        title: 'Hörbeispiele',
         content: '' // Generated dynamically
     }
 };
@@ -421,23 +421,23 @@ const audioExamples = [
         id: 'grieg-solveig',
         title: 'Solveigs Lied',
         composer: 'Edvard Grieg',
-        stimmung: 'Zaertlich, sehnsuechtig, melancholisch, hoffnungsvoll',
+        stimmung: 'Zärtlich, sehnsüchtig, melancholisch, hoffnungsvoll',
         instrumente: 'Sopranstimme, Streicher, sanfte Orchesterbegleitung',
         tempo: 'Langsam, ruhig (Andante)',
-        merkmale: 'Wiegender 4/4-Takt, einfache sangliche Melodie, norwegischer Volksmusikcharakter, Wechsel Moll-Dur (Trauer zu Hoffnung)',
-        eselsbruecke: 'SOLVEIG = SOnnige Liebe VErbindet Innige Gefuehle. Eine Frau wartet geduldig - wie ein Wiegenlied.',
-        unterscheidung: 'Einziges Stueck mit Gesang (Sopran). Ruhig und schlicht, skandinavischer Klang.',
+        merkmale: 'Wiegender 4/4-Takt, einfache sangliche Melodie, norwegischer Volksmusikcharakter, Wechsel Moll-Dur (Traür zu Hoffnung)',
+        eselsbrücke: 'SOLVEIG = SOnnige Liebe VErbindet Innige Gefühle. Eine Frau wartet geduldig - wie ein Wiegenlied.',
+        unterscheidung: 'Einziges Stück mit Gesang (Sopran). Ruhig und schlicht, skandinavischer Klang.',
         ytSearch: 'Grieg Solveigs Lied'
     },
     {
         id: 'tschaikowski-nussknacker',
         title: 'Nussknacker-Marsch',
         composer: 'Pjotr Iljitsch Tschaikowski',
-        stimmung: 'Festlich, freudig, spielerisch, maerchenhaft',
-        instrumente: 'Volles Orchester, Trompeten, Pauken, Streicher, Holzblaeser',
-        tempo: 'Maessig schnell, marschmaessig (Tempo di Marcia)',
-        merkmale: 'Klarer Marsch-Rhythmus im 4/4-Takt, praegende Trompetenfanfaren, festlicher Charakter, wiedererkennbares Hauptthema',
-        eselsbruecke: 'NUSSKNACKER = Soldaten marschieren zur Weihnachtsfeier. Marschrhythmus + Trompeten = Nussknacker!',
+        stimmung: 'Festlich, freudig, spielerisch, märchenhaft',
+        instrumente: 'Volles Orchester, Trompeten, Pauken, Streicher, Holzbläser',
+        tempo: 'Mäßig schnell, marschmäßig (Tempo di Marcia)',
+        merkmale: 'Klarer Marsch-Rhythmus im 4/4-Takt, prägende Trompetenfanfaren, festlicher Charakter, wiedererkennbares Hauptthema',
+        eselsbrücke: 'NUSSKNACKER = Soldaten marschieren zur Weihnachtsfeier. Marschrhythmus + Trompeten = Nussknacker!',
         unterscheidung: 'Einziger Marsch. Sofort erkennbar am "links-rechts"-Rhythmus und den Trompetenfanfaren.',
         ytSearch: 'Tschaikowski Nussknacker Marsch'
     },
@@ -445,48 +445,48 @@ const audioExamples = [
         id: 'bizet-farandole',
         title: 'Farandole',
         composer: 'Georges Bizet',
-        stimmung: 'Wild, leidenschaftlich, suedlaendisch, mitreissend, triumphal',
-        instrumente: 'Volles Orchester, markante Pauken und Becken, kraftvolle Blaeser, Streicher',
+        stimmung: 'Wild, leidenschaftlich, südländisch, mitreissend, triumphal',
+        instrumente: 'Volles Orchester, markante Pauken und Becken, kraftvolle Bläser, Streicher',
         tempo: 'Schnell und zunehmend schneller (Allegro vivace)',
-        merkmale: 'Suedlaendischer Tanzcharakter, zwei kontrastierende Themen (Marsch + Tanz) werden kombiniert, staendige Steigerung, dramatisches Finale',
-        eselsbruecke: 'FARANDOLE = Feuriger Suedfranzose tanzt immer schneller! Zwei Melodien rasen aufeinander zu.',
-        unterscheidung: 'Am schnellsten und wildesten. Staendige Steigerung bis zum explosiven Schluss. Suedlaendischer Klang.',
+        merkmale: 'Südländischer Tanzcharakter, zwei kontrastierende Themen (Marsch + Tanz) werden kombiniert, ständige Steigerung, dramatisches Finale',
+        eselsbrücke: 'FARANDOLE = Feuriger Südfranzose tanzt immer schneller! Zwei Melodien rasen aufeinander zu.',
+        unterscheidung: 'Am schnellsten und wildesten. Ständige Steigerung bis zum explosiven Schluss. Südländischer Klang.',
         ytSearch: 'Bizet Farandole Arlesienne'
     },
     {
         id: 'schubert-avemaria',
         title: 'Ave Maria',
         composer: 'Franz Schubert',
-        stimmung: 'Andaechtig, feierlich, friedlich, erhaben',
+        stimmung: 'Andächtig, feierlich, friedlich, erhaben',
         instrumente: 'Singstimme (Sopran) und Klavier, oft auch orchestriert',
         tempo: 'Langsam, getragen (Lento)',
-        merkmale: 'Sanft fliessende Klavierbegleitung (Arpeggien), weit geschwungene Melodie, gleichmaessiger Fluss, keine dramatischen Kontraste, gebaetsartiger Charakter',
-        eselsbruecke: 'AVE MARIA = Friedliches Gebet in der Kirche. Sanftes Klavier plätschert wie ein ruhiger Bach.',
-        unterscheidung: 'Ruhigstes Stueck. Erkennbar an den gleichmaessigen Klavier-Arpeggien (gebrochene Akkorde) von Anfang an.',
+        merkmale: 'Sanft fließende Klavierbegleitung (Arpeggien), weit geschwungene Melodie, gleichmäßiger Fluss, keine dramatischen Kontraste, gebätsartiger Charakter',
+        eselsbrücke: 'AVE MARIA = Friedliches Gebet in der Kirche. Sanftes Klavier plätschert wie ein ruhiger Bach.',
+        unterscheidung: 'Ruhigstes Stück. Erkennbar an den gleichmäßigen Klavier-Arpeggien (gebrochene Akkorde) von Anfang an.',
         ytSearch: 'Schubert Ave Maria'
     },
     {
         id: 'brahms-sinfonie3',
         title: '3. Sinfonie (3. Satz)',
         composer: 'Johannes Brahms',
-        stimmung: 'Elegisch, sehnsuechtig, warm, melancholisch-schoen',
-        instrumente: 'Orchester: besonders Celli und Streicher im Vordergrund, Holzblaeser',
-        tempo: 'Maessig bewegt, fliessend (Poco Allegretto)',
-        merkmale: 'Wunderschoene, weitgespannte Cello-Melodie, 3/8-Takt (wiegend), warmer Streicherklang, lyrisch und innig, keine extreme Dynamik',
-        eselsbruecke: 'BRAHMS 3 = Herbstliche Sehnsucht. Die Celli singen ein sehnsuechtiges Lied wie ein Spaziergang im Herbst.',
-        unterscheidung: 'Am "sehnsuechtigsten". Erkennbar an der wunderschoenen Cellomelodie. Ruhig aber nicht so langsam wie Ave Maria.',
+        stimmung: 'Elegisch, sehnsüchtig, warm, melancholisch-schön',
+        instrumente: 'Orchester: besonders Celli und Streicher im Vordergrund, Holzbläser',
+        tempo: 'Mäßig bewegt, fließend (Poco Allegretto)',
+        merkmale: 'Wunderschöne, weitgespannte Cello-Melodie, 3/8-Takt (wiegend), warmer Streicherklang, lyrisch und innig, keine extreme Dynamik',
+        eselsbrücke: 'BRAHMS 3 = Herbstliche Sehnsucht. Die Celli singen ein sehnsüchtiges Lied wie ein Spaziergang im Herbst.',
+        unterscheidung: 'Am "sehnsüchtigsten". Erkennbar an der wunderschönen Cellomelodie. Ruhig aber nicht so langsam wie Ave Maria.',
         ytSearch: 'Brahms Sinfonie 3 dritter Satz Poco Allegretto'
     },
     {
         id: 'elgar-pomp',
         title: 'Pomp and Circumstance (Trio)',
         composer: 'Edward Elgar',
-        stimmung: 'Feierlich, erhaben, patriotisch, majestaetisch, triumphal',
-        instrumente: 'Volles Orchester mit dominanten Blechblaesern, Pauken, grossen Streichern',
+        stimmung: 'Feierlich, erhaben, patriotisch, majestätisch, triumphal',
+        instrumente: 'Volles Orchester mit dominanten Blechbläsern, Pauken, großen Streichern',
         tempo: 'Breit und feierlich (Largamente)',
-        merkmale: 'Hymnenartige, breit geschwungene Melodie, prachtvoller Orchesterklang, punktierter Rhythmus, majestaetisches Dur, bekannt als "Land of Hope and Glory"',
-        eselsbruecke: 'ELGAR = Koenigin-Hymne. Stelle dir eine Kroenung oder Abschlussfeier vor. Feierlichstes Stueck!',
-        unterscheidung: 'Am feierlichsten und majestaetischsten. Groesster Orchesterklang. Die Melodie klingt wie eine Nationalhymne.',
+        merkmale: 'Hymnenartige, breit geschwungene Melodie, prachtvoller Orchesterklang, punktierter Rhythmus, majestätisches Dur, bekannt als "Land of Hope and Glory"',
+        eselsbrücke: 'ELGAR = Königin-Hymne. Stelle dir eine Krönung oder Abschlussfeier vor. Feierlichstes Stück!',
+        unterscheidung: 'Am feierlichsten und majestätischsten. Grösster Orchesterklang. Die Melodie klingt wie eine Nationalhymne.',
         ytSearch: 'Elgar Pomp and Circumstance March No 1 Trio'
     }
 ];
@@ -496,110 +496,110 @@ const questionPool = [
     // ---- ROMANTIK ----
     { topic:'romantik', type:'mc', q:'In welchem Zeitraum liegt die musikalische Romantik?', options:['1600-1750','1750-1820','1820-1910','1910-1960'], correct:2, explanation:'Die musikalische Romantik umfasst ca. 1820 bis 1910.' },
     { topic:'romantik', type:'mc', q:'Welche Epoche geht der Romantik voraus?', options:['Barock','Renaissance','Wiener Klassik','Moderne'], correct:2, explanation:'Die Wiener Klassik (Haydn, Mozart, Beethoven) geht der Romantik voraus.' },
-    { topic:'romantik', type:'tf', q:'In der Romantik stehen persoenliche Gefuehle und Empfindungen im Mittelpunkt.', correct:true, explanation:'Subjektivitaet und Emotionalitaet sind zentrale Merkmale der Romantik.' },
-    { topic:'romantik', type:'tf', q:'Die Romantik war eine Fortsetzung der rationalen Aufklaerung.', correct:false, explanation:'Die Romantik war eine Reaktion GEGEN die Vernunft der Aufklaerung und betonte stattdessen Gefuehle.' },
-    { topic:'romantik', type:'mc', q:'Welches ist KEIN typisches Thema der Romantik?', options:['Sehnsucht','Natur','Wissenschaftlicher Fortschritt','Fantasie'], correct:2, explanation:'Wissenschaftlicher Fortschritt gehoert zur Aufklaerung. Die Romantik betont Gefuehle, Natur und Fantasie.' },
-    { topic:'romantik', type:'mc', q:'Was bedeutet "Programmatik" in der romantischen Musik?', options:['Musik nach einem festen Programm (Stundenplan)','Musik erzaehlt Geschichten oder beschreibt Bilder','Musik wird am Computer programmiert','Musik folgt strengen Regeln'], correct:1, explanation:'Programmatik bedeutet, dass Musik aussermussikalische Inhalte (Geschichten, Bilder, Stimmungen) darstellt.' },
-    { topic:'romantik', type:'tf', q:'In der Romantik wurden die Orchester groesser und klangvoller.', correct:true, explanation:'Groessere Orchester, mehr Instrumente und neue Klangfarben sind typisch romantisch.' },
-    { topic:'romantik', type:'gap', q:'Die Romantik ist eine Reaktion gegen die ___ der Aufklaerung.', answer:'Vernunft', hint:'V_______', explanation:'Die Romantik wendete sich gegen die reine Vernunft und betonte Gefuehle und Fantasie.' },
+    { topic:'romantik', type:'tf', q:'In der Romantik stehen persönliche Gefühle und Empfindungen im Mittelpunkt.', correct:true, explanation:'Subjektivität und Emotionalität sind zentrale Merkmale der Romantik.' },
+    { topic:'romantik', type:'tf', q:'Die Romantik war eine Fortsetzung der rationalen Aufklärung.', correct:false, explanation:'Die Romantik war eine Reaktion GEGEN die Vernunft der Aufklärung und betonte stattdessen Gefühle.' },
+    { topic:'romantik', type:'mc', q:'Welches ist KEIN typisches Thema der Romantik?', options:['Sehnsucht','Natur','Wissenschaftlicher Fortschritt','Fantasie'], correct:2, explanation:'Wissenschaftlicher Fortschritt gehört zur Aufklärung. Die Romantik betont Gefühle, Natur und Fantasie.' },
+    { topic:'romantik', type:'mc', q:'Was bedeutet "Programmatik" in der romantischen Musik?', options:['Musik nach einem festen Programm (Stundenplan)','Musik erzählt Geschichten oder beschreibt Bilder','Musik wird am Computer programmiert','Musik folgt strengen Regeln'], correct:1, explanation:'Programmatik bedeutet, dass Musik aussermussikalische Inhalte (Geschichten, Bilder, Stimmungen) darstellt.' },
+    { topic:'romantik', type:'tf', q:'In der Romantik wurden die Orchester grösser und klangvoller.', correct:true, explanation:'Grössere Orchester, mehr Instrumente und neü Klangfarben sind typisch romantisch.' },
+    { topic:'romantik', type:'gap', q:'Die Romantik ist eine Reaktion gegen die ___ der Aufklärung.', answer:'Vernunft', hint:'V_______', explanation:'Die Romantik wendete sich gegen die reine Vernunft und betonte Gefühle und Fantasie.' },
     { topic:'romantik', type:'gap', q:'Typische Merkmale der romantischen Musik sind extreme ___ von ppp bis fff.', answer:'Dynamik', hint:'D______', explanation:'Extreme Dynamik mit starken Kontrasten ist ein zentrales Merkmal.' },
-    { topic:'romantik', type:'mc', q:'Welcher Komponist gehoert zur Fruehromantik?', options:['Gustav Mahler','Richard Strauss','Franz Schubert','Edward Elgar'], correct:2, explanation:'Schubert (1797-1828) gehoert zur Fruehromantik (ca. 1820-1850).' },
-    { topic:'romantik', type:'match', q:'Ordne die Komponisten den Epochen zu:', pairs:[['Schubert','Fruehromantik'],['Brahms','Hochromantik'],['Mahler','Spaetromantik']], options:['Fruehromantik','Hochromantik','Spaetromantik'] },
+    { topic:'romantik', type:'mc', q:'Welcher Komponist gehört zur Frühromantik?', options:['Gustav Mahler','Richard Strauss','Franz Schubert','Edward Elgar'], correct:2, explanation:'Schubert (1797-1828) gehört zur Frühromantik (ca. 1820-1850).' },
+    { topic:'romantik', type:'match', q:'Ordne die Komponisten den Epochen zu:', pairs:[['Schubert','Frühromantik'],['Brahms','Hochromantik'],['Mahler','Spätromantik']], options:['Frühromantik','Hochromantik','Spätromantik'] },
     { topic:'romantik', type:'tf', q:'Rubato bedeutet einen freien Umgang mit dem Tempo.', correct:true, explanation:'Rubato (ital. "geraubt") bedeutet, dass das Tempo frei gestaltet wird, um den Ausdruck zu steigern.' },
 
     // ---- SCHUBERT ----
     { topic:'schubert', type:'mc', q:'Wann wurde Franz Schubert geboren?', options:['1770','1797','1810','1828'], correct:1, explanation:'Schubert wurde am 31. Januar 1797 in Wien geboren.' },
     { topic:'schubert', type:'mc', q:'Wie alt wurde Franz Schubert?', options:['25 Jahre','31 Jahre','35 Jahre','40 Jahre'], correct:1, explanation:'Schubert starb 1828 im Alter von nur 31 Jahren.' },
-    { topic:'schubert', type:'tf', q:'Schubert komponierte ueber 600 Lieder.', correct:true, explanation:'Schubert schrieb mehr als 600 Lieder und gilt als bedeutendster Liedkomponist.' },
-    { topic:'schubert', type:'mc', q:'Wie viele Lieder umfasst die Winterreise?', options:['12','18','24','30'], correct:2, explanation:'Die Winterreise besteht aus 24 Liedern nach Gedichten von Wilhelm Mueller.' },
-    { topic:'schubert', type:'gap', q:'Die Winterreise basiert auf Gedichten von Wilhelm ___.', answer:'Mueller', hint:'M______', explanation:'Die Texte stammen von dem Dichter Wilhelm Mueller.' },
+    { topic:'schubert', type:'tf', q:'Schubert komponierte über 600 Lieder.', correct:true, explanation:'Schubert schrieb mehr als 600 Lieder und gilt als bedeutendster Liedkomponist.' },
+    { topic:'schubert', type:'mc', q:'Wie viele Lieder umfasst die Winterreise?', options:['12','18','24','30'], correct:2, explanation:'Die Winterreise besteht aus 24 Liedern nach Gedichten von Wilhelm Müller.' },
+    { topic:'schubert', type:'gap', q:'Die Winterreise basiert auf Gedichten von Wilhelm ___.', answer:'Müller', hint:'M______', explanation:'Die Texte stammen von dem Dichter Wilhelm Müller.' },
     { topic:'schubert', type:'mc', q:'Was ist das Besondere an Schuberts Klavierbegleitung?', options:['Sie ist immer leise','Sie ist gleichwertiger Partner der Singstimme','Sie fehlt oft','Sie ist immer gleich'], correct:1, explanation:'Bei Schubert ist das Klavier gleichwertiger Partner, nicht nur Begleitung.' },
-    { topic:'schubert', type:'tf', q:'Schubert wurde zu Lebzeiten als grosser Komponist gefeiert.', correct:false, explanation:'Schubert wurde erst nach seinem Tod als grosser Komponist anerkannt.' },
-    { topic:'schubert', type:'mc', q:'Welches Lied von Schubert ist durchkomponiert?', options:['Das Wandern','Die Forelle','Erlkoenig','Heidenroeslein'], correct:2, explanation:'Der Erlkoenig ist durchkomponiert - jede Strophe hat neue Musik fuer die verschiedenen Rollen.' },
-    { topic:'schubert', type:'mc', q:'Was ist die Grundstimmung der Winterreise?', options:['Freudig und festlich','Duester und melancholisch','Heiter und unbeschwert','Heroisch und triumphal'], correct:1, explanation:'Die Winterreise ist durchgehend duester, melancholisch und verzweifelt.' },
-    { topic:'schubert', type:'tf', q:'Die Winterreise endet mit einer froehlichen Aufloesung.', correct:false, explanation:'Das letzte Lied "Der Leiermann" endet offen und ohne Aufloesung.' },
+    { topic:'schubert', type:'tf', q:'Schubert wurde zu Lebzeiten als großer Komponist gefeiert.', correct:false, explanation:'Schubert wurde erst nach seinem Tod als großer Komponist anerkannt.' },
+    { topic:'schubert', type:'mc', q:'Welches Lied von Schubert ist durchkomponiert?', options:['Das Wandern','Die Forelle','Erlkönig','Heidenröslein'], correct:2, explanation:'Der Erlkönig ist durchkomponiert - jede Strophe hat neü Musik für die verschiedenen Rollen.' },
+    { topic:'schubert', type:'mc', q:'Was ist die Grundstimmung der Winterreise?', options:['Freudig und festlich','Düster und melancholisch','Heiter und unbeschwert','Heroisch und triumphal'], correct:1, explanation:'Die Winterreise ist durchgehend düster, melancholisch und verzweifelt.' },
+    { topic:'schubert', type:'tf', q:'Die Winterreise endet mit einer fröhlichen Auflösung.', correct:false, explanation:'Das letzte Lied "Der Leiermann" endet offen und ohne Auflösung.' },
     { topic:'schubert', type:'gap', q:'Schubert steht an der Schwelle zwischen Wiener Klassik und ___.', answer:'Romantik', hint:'R_______', explanation:'Schubert verbindet Elemente der Wiener Klassik mit der aufkommenden Romantik.' },
-    { topic:'schubert', type:'mc', q:'Welches Motiv praegt die Winterreise NICHT?', options:['Einsamkeit','Kaelte','Sommerfreude','Tod'], correct:2, explanation:'Sommerfreude passt nicht - die Winterreise handelt von Kaelte, Einsamkeit und Hoffnungslosigkeit.' },
-    { topic:'schubert', type:'free', q:'Erklaere, warum Schubert fuer die Entwicklung des Kunstliedes so wichtig war.', keywords:['Klavier','gleichwertiger Partner','Textausdeutung','600 Lieder','Gattung','eigenstaendig'], explanation:'Schubert machte das Kunstlied zu einer eigenstaendigen Gattung. Das Klavier wurde zum gleichwertigen Partner der Singstimme und deutet den Text musikalisch aus. Mit ueber 600 Liedern setzte er Massstaebe.' },
+    { topic:'schubert', type:'mc', q:'Welches Motiv prägt die Winterreise NICHT?', options:['Einsamkeit','Kälte','Sommerfreude','Tod'], correct:2, explanation:'Sommerfreude passt nicht - die Winterreise handelt von Kälte, Einsamkeit und Hoffnungslosigkeit.' },
+    { topic:'schubert', type:'free', q:'Erkläre, warum Schubert für die Entwicklung des Kunstliedes so wichtig war.', keywords:['Klavier','gleichwertiger Partner','Textausdeutung','600 Lieder','Gattung','eigenständig'], explanation:'Schubert machte das Kunstlied zu einer eigenständigen Gattung. Das Klavier wurde zum gleichwertigen Partner der Singstimme und deutet den Text musikalisch aus. Mit über 600 Liedern setzte er Maßstäbe.' },
 
     // ---- KUNSTLIED ----
-    { topic:'kunstlied', type:'mc', q:'Was ist ein Kunstlied?', options:['Ein Lied fuer Chor und Orchester','Ein Lied fuer Singstimme und Klavier auf literarischen Text','Ein improvisiertes Lied','Ein Volkslied mit Gitarre'], correct:1, explanation:'Ein Kunstlied ist fuer Singstimme und Klavier auf einen literarischen Text vertont.' },
+    { topic:'kunstlied', type:'mc', q:'Was ist ein Kunstlied?', options:['Ein Lied für Chor und Orchester','Ein Lied für Singstimme und Klavier auf literarischen Text','Ein improvisiertes Lied','Ein Volkslied mit Gitarre'], correct:1, explanation:'Ein Kunstlied ist für Singstimme und Klavier auf einen literarischen Text vertont.' },
     { topic:'kunstlied', type:'mc', q:'In welcher Liedform hat jede Strophe die gleiche Melodie?', options:['Durchkomponiertes Lied','Variiertes Strophenlied','Einfaches Strophenlied','Rondo'], correct:2, explanation:'Beim einfachen Strophenlied wird jede Strophe mit derselben Melodie gesungen.' },
-    { topic:'kunstlied', type:'mc', q:'Welche Liedform hat fuer jede Strophe neue Musik?', options:['Einfaches Strophenlied','Variiertes Strophenlied','Durchkomponiertes Lied','Kanon'], correct:2, explanation:'Beim durchkomponierten Lied erhaelt jede Strophe neue, eigene Musik.' },
-    { topic:'kunstlied', type:'mc', q:'Welches Beispiel ist ein variiertes Strophenlied?', options:['Erlkoenig','Die Forelle','Nationalhymne','Ave Maria'], correct:1, explanation:'Schuberts "Die Forelle" ist ein variiertes Strophenlied - die Grundmelodie bleibt erkennbar, wird aber variiert.' },
-    { topic:'kunstlied', type:'tf', q:'Beim Kunstlied ist das Klavier nur einfache Begleitung.', correct:false, explanation:'Das Klavier ist gleichwertiger Partner der Singstimme und hat eine eigenstaendige, wichtige Rolle.' },
-    { topic:'kunstlied', type:'match', q:'Ordne die Liedformen den Beschreibungen zu:', pairs:[['Einfaches Strophenlied','Gleiche Melodie in jeder Strophe'],['Variiertes Strophenlied','Melodie erkennbar aber veraendert'],['Durchkomponiertes Lied','Jede Strophe neue Musik']], options:['Gleiche Melodie in jeder Strophe','Melodie erkennbar aber veraendert','Jede Strophe neue Musik'] },
-    { topic:'kunstlied', type:'gap', q:'Beim variierten Strophenlied bleibt die ___ erkennbar, wird aber veraendert.', answer:'Melodie', hint:'M______', explanation:'Die Grundmelodie bleibt beim variierten Strophenlied erkennbar, wird aber angepasst.' },
-    { topic:'kunstlied', type:'tf', q:'Wortmalerei bedeutet die musikalische Nachahmung von im Text beschriebenen Klaengen.', correct:true, explanation:'Wortmalerei ist die Umsetzung von Textinhalten in musikalische Klangbilder (z.B. Wellenrauschen im Klavier).' },
-    { topic:'kunstlied', type:'mc', q:'Worin unterscheidet sich das Volkslied vom Kunstlied?', options:['Das Volkslied hat einen bekannten Komponisten','Das Kunstlied ist fuer Gemeinschaftsgesang','Das Volkslied ist muendlich ueberliefert und hat einfache Melodien','Das Kunstlied hat keine Begleitung'], correct:2, explanation:'Volkslieder sind muendlich ueberliefert, haben unbekannte Komponisten und einfache Melodien.' },
-    { topic:'kunstlied', type:'free', q:'Erklaere den Unterschied zwischen einfachem Strophenlied und durchkomponiertem Lied.', keywords:['gleiche Melodie','wiederholt','neue Musik','jede Strophe','Textinhalt','dramatisch'], explanation:'Beim einfachen Strophenlied wird die gleiche Melodie in jeder Strophe wiederholt (A-A-A). Beim durchkomponierten Lied erhaelt jede Strophe neue Musik (A-B-C-D), die individuell auf den Textinhalt reagiert. Das durchkomponierte Lied eignet sich besser fuer dramatische Texte.' },
+    { topic:'kunstlied', type:'mc', q:'Welche Liedform hat für jede Strophe neü Musik?', options:['Einfaches Strophenlied','Variiertes Strophenlied','Durchkomponiertes Lied','Kanon'], correct:2, explanation:'Beim durchkomponierten Lied erhält jede Strophe neü, eigene Musik.' },
+    { topic:'kunstlied', type:'mc', q:'Welches Beispiel ist ein variiertes Strophenlied?', options:['Erlkönig','Die Forelle','Nationalhymne','Ave Maria'], correct:1, explanation:'Schuberts "Die Forelle" ist ein variiertes Strophenlied - die Grundmelodie bleibt erkennbar, wird aber variiert.' },
+    { topic:'kunstlied', type:'tf', q:'Beim Kunstlied ist das Klavier nur einfache Begleitung.', correct:false, explanation:'Das Klavier ist gleichwertiger Partner der Singstimme und hat eine eigenständige, wichtige Rolle.' },
+    { topic:'kunstlied', type:'match', q:'Ordne die Liedformen den Beschreibungen zu:', pairs:[['Einfaches Strophenlied','Gleiche Melodie in jeder Strophe'],['Variiertes Strophenlied','Melodie erkennbar aber verändert'],['Durchkomponiertes Lied','Jede Strophe neü Musik']], options:['Gleiche Melodie in jeder Strophe','Melodie erkennbar aber verändert','Jede Strophe neü Musik'] },
+    { topic:'kunstlied', type:'gap', q:'Beim variierten Strophenlied bleibt die ___ erkennbar, wird aber verändert.', answer:'Melodie', hint:'M______', explanation:'Die Grundmelodie bleibt beim variierten Strophenlied erkennbar, wird aber angepasst.' },
+    { topic:'kunstlied', type:'tf', q:'Wortmalerei bedeutet die musikalische Nachahmung von im Text beschriebenen Klängen.', correct:true, explanation:'Wortmalerei ist die Umsetzung von Textinhalten in musikalische Klangbilder (z.B. Wellenrauschen im Klavier).' },
+    { topic:'kunstlied', type:'mc', q:'Worin unterscheidet sich das Volkslied vom Kunstlied?', options:['Das Volkslied hat einen bekannten Komponisten','Das Kunstlied ist für Gemeinschaftsgesang','Das Volkslied ist mündlich überliefert und hat einfache Melodien','Das Kunstlied hat keine Begleitung'], correct:2, explanation:'Volkslieder sind mündlich überliefert, haben unbekannte Komponisten und einfache Melodien.' },
+    { topic:'kunstlied', type:'free', q:'Erkläre den Unterschied zwischen einfachem Strophenlied und durchkomponiertem Lied.', keywords:['gleiche Melodie','wiederholt','neü Musik','jede Strophe','Textinhalt','dramatisch'], explanation:'Beim einfachen Strophenlied wird die gleiche Melodie in jeder Strophe wiederholt (A-A-A). Beim durchkomponierten Lied erhält jede Strophe neü Musik (A-B-C-D), die individuell auf den Textinhalt reagiert. Das durchkomponierte Lied eignet sich besser für dramatische Texte.' },
 
     // ---- ANALYSE ----
     { topic:'analyse', type:'mc', q:'Was bedeutet "Crescendo"?', options:['Leiser werdend','Schneller werdend','Lauter werdend','Langsamer werdend'], correct:2, explanation:'Crescendo bedeutet lauter werdend (Dynamik-Steigerung).' },
-    { topic:'analyse', type:'mc', q:'Was bedeutet syllabische Vertonung?', options:['Mehrere Toene pro Silbe','Ein Ton pro Silbe','Ohne Text','Nur Instrumente'], correct:1, explanation:'Syllabisch = jede Silbe wird auf genau einem Ton gesungen. Das macht den Text klar verstaendlich.' },
+    { topic:'analyse', type:'mc', q:'Was bedeutet syllabische Vertonung?', options:['Mehrere Töne pro Silbe','Ein Ton pro Silbe','Ohne Text','Nur Instrumente'], correct:1, explanation:'Syllabisch = jede Silbe wird auf genau einem Ton gesungen. Das macht den Text klar verständlich.' },
     { topic:'analyse', type:'mc', q:'Welche Stimmung erzeugt typischerweise eine Moll-Tonart?', options:['Freudig und hell','Traurig und dunkel','Feierlich und erhaben','Tanzerisch und leicht'], correct:1, explanation:'Moll klingt dunkel, traurig, melancholisch oder dramatisch.' },
-    { topic:'analyse', type:'tf', q:'Eine aufsteigende Melodie drueckt oft Hoffnung und Streben aus.', correct:true, explanation:'Aufwaertsbewegungen in der Melodie symbolisieren Hoffnung, Freude oder Streben.' },
-    { topic:'analyse', type:'mc', q:'Was bedeutet "Adagio"?', options:['Schnell','Sehr schnell','Maessig','Sehr langsam'], correct:3, explanation:'Adagio = sehr langsam. Es erzeugt eine feierliche oder traurige Stimmung.' },
-    { topic:'analyse', type:'gap', q:'Bei ___ Vertonung wird eine Silbe auf mehrere Toene gesungen.', answer:'melismatischer', hint:'m____________', explanation:'Melismatische Vertonung = eine Silbe wird auf mehrere Toene gedehnt (Gegenteil von syllabisch).' },
-    { topic:'analyse', type:'mc', q:'Welche Instrumente klingen typischerweise feierlich und majestaetisch?', options:['Floeten und Oboen','Celli und Bratschen','Trompeten und Posaunen (Blechblaeser)','Klarinetten und Fagotte'], correct:2, explanation:'Blechblaeser (Trompeten, Posaunen, Hoerner) klingen feierlich, maechtig und heroisch.' },
+    { topic:'analyse', type:'tf', q:'Eine aufsteigende Melodie drückt oft Hoffnung und Streben aus.', correct:true, explanation:'Aufwärtsbewegungen in der Melodie symbolisieren Hoffnung, Freude oder Streben.' },
+    { topic:'analyse', type:'mc', q:'Was bedeutet "Adagio"?', options:['Schnell','Sehr schnell','Mäßig','Sehr langsam'], correct:3, explanation:'Adagio = sehr langsam. Es erzeugt eine feierliche oder traurige Stimmung.' },
+    { topic:'analyse', type:'gap', q:'Bei ___ Vertonung wird eine Silbe auf mehrere Töne gesungen.', answer:'melismatischer', hint:'m____________', explanation:'Melismatische Vertonung = eine Silbe wird auf mehrere Töne gedehnt (Gegenteil von syllabisch).' },
+    { topic:'analyse', type:'mc', q:'Welche Instrumente klingen typischerweise feierlich und majestätisch?', options:['Flöten und Obön','Celli und Bratschen','Trompeten und Posaunen (Blechbläser)','Klarinetten und Fagotte'], correct:2, explanation:'Blechbläser (Trompeten, Posaunen, Hörner) klingen feierlich, mächtig und heroisch.' },
     { topic:'analyse', type:'tf', q:'Ritardando bedeutet, dass das Tempo schneller wird.', correct:false, explanation:'Ritardando = langsamer werdend. Accelerando = schneller werdend.' },
     { topic:'analyse', type:'match', q:'Ordne die Dynamikbezeichnungen zu:', pairs:[['pp','Sehr leise'],['f','Laut'],['ff','Sehr laut'],['mf','Mittelstark']], options:['Sehr leise','Laut','Sehr laut','Mittelstark'] },
     { topic:'analyse', type:'free', q:'Beschreibe, wie eine traurige Stimmung in der Musik erzeugt werden kann. Nenne mindestens 4 musikalische Mittel.', keywords:['Moll','langsam','leise','piano','absteigende Melodie','tiefe Tonlage','Tempo','Dynamik'], explanation:'Traurige Stimmung entsteht durch: Moll-Tonart, langsames Tempo (Adagio/Largo), leise Dynamik (piano/pianissimo), absteigende Melodie, tiefe Tonlage, sparsame Instrumentation und legato (gebundene) Spielweise.' },
-    { topic:'analyse', type:'mc', q:'Was drueckt ein ploetzlicher Wechsel von Dur nach Moll aus?', options:['Nichts Besonderes','Einen Stimmungsumbruch von positiv zu negativ','Das Stueck ist zu Ende','Der Rhythmus aendert sich'], correct:1, explanation:'Ein Dur-Moll-Wechsel verdeutlicht einen Stimmungsumbruch: Hoffnung weicht der Ernuechterung.' },
+    { topic:'analyse', type:'mc', q:'Was drückt ein plötzlicher Wechsel von Dur nach Moll aus?', options:['Nichts Besonderes','Einen Stimmungsumbruch von positiv zu negativ','Das Stück ist zu Ende','Der Rhythmus ändert sich'], correct:1, explanation:'Ein Dur-Moll-Wechsel verdeutlicht einen Stimmungsumbruch: Hoffnung weicht der Ernüchterung.' },
 
     // ---- HOERBEISPIELE ----
-    { topic:'hoerbeispiele', type:'mc', q:'Welches Stueck erkennt man am Marsch-Rhythmus und Trompetenfanfaren?', options:['Ave Maria','Nussknacker-Marsch','Solveigs Lied','Brahms 3. Sinfonie'], correct:1, explanation:'Der Nussknacker-Marsch ist am klaren Marsch-Rhythmus und den Trompetenfanfaren erkennbar.' },
-    { topic:'hoerbeispiele', type:'mc', q:'Welches Stueck hat eine wunderschoene Cellomelodie?', options:['Farandole','Pomp and Circumstance','Brahms 3. Sinfonie','Nussknacker-Marsch'], correct:2, explanation:'Der 3. Satz von Brahms\' 3. Sinfonie ist fuer seine sehnsuechtige Cellomelodie bekannt.' },
-    { topic:'hoerbeispiele', type:'mc', q:'Welches Stueck wird immer schneller und hat suedlaendischen Charakter?', options:['Ave Maria','Solveigs Lied','Farandole','Pomp and Circumstance'], correct:2, explanation:'Bizets Farandole hat suedlaendischen Tanzcharakter und wird staendig schneller bis zum explosiven Schluss.' },
-    { topic:'hoerbeispiele', type:'match', q:'Ordne die Stuecke den Komponisten zu:', pairs:[['Solveigs Lied','Edvard Grieg'],['Nussknacker-Marsch','Tschaikowski'],['Farandole','Georges Bizet'],['Ave Maria','Franz Schubert']], options:['Edvard Grieg','Tschaikowski','Georges Bizet','Franz Schubert'] },
-    { topic:'hoerbeispiele', type:'mc', q:'Welches Stueck erkennt man an gleichmaessigen Klavier-Arpeggien?', options:['Farandole','Nussknacker-Marsch','Ave Maria','Pomp and Circumstance'], correct:2, explanation:'Schuberts Ave Maria beginnt mit sanft fliessenden Klavier-Arpeggien (gebrochene Akkorde).' },
-    { topic:'hoerbeispiele', type:'mc', q:'Welches Stueck klingt wie eine Nationalhymne?', options:['Solveigs Lied','Ave Maria','Brahms 3. Sinfonie','Pomp and Circumstance'], correct:3, explanation:'Elgars Pomp and Circumstance (Trio) klingt hymnisch und majestaetisch wie eine Nationalhymne ("Land of Hope and Glory").' },
-    { topic:'hoerbeispiele', type:'tf', q:'Solveigs Lied ist das einzige Hoerbeispiel mit Gesang.', correct:true, explanation:'Solveigs Lied ist das einzige der sechs Hoerbeispiele, das eine Singstimme (Sopran) hat.' },
-    { topic:'hoerbeispiele', type:'match', q:'Ordne die Stuecke den Stimmungen zu:', pairs:[['Nussknacker-Marsch','Festlich, maerchenhaft'],['Farandole','Wild, leidenschaftlich'],['Ave Maria','Andaechtig, friedlich'],['Pomp and Circumstance','Feierlich, majestaetisch']], options:['Festlich, maerchenhaft','Wild, leidenschaftlich','Andaechtig, friedlich','Feierlich, majestaetisch'] },
+    { topic:'hoerbeispiele', type:'mc', q:'Welches Stück erkennt man am Marsch-Rhythmus und Trompetenfanfaren?', options:['Ave Maria','Nussknacker-Marsch','Solveigs Lied','Brahms 3. Sinfonie'], correct:1, explanation:'Der Nussknacker-Marsch ist am klaren Marsch-Rhythmus und den Trompetenfanfaren erkennbar.' },
+    { topic:'hoerbeispiele', type:'mc', q:'Welches Stück hat eine wunderschöne Cellomelodie?', options:['Farandole','Pomp and Circumstance','Brahms 3. Sinfonie','Nussknacker-Marsch'], correct:2, explanation:'Der 3. Satz von Brahms\' 3. Sinfonie ist für seine sehnsüchtige Cellomelodie bekannt.' },
+    { topic:'hoerbeispiele', type:'mc', q:'Welches Stück wird immer schneller und hat südländischen Charakter?', options:['Ave Maria','Solveigs Lied','Farandole','Pomp and Circumstance'], correct:2, explanation:'Bizets Farandole hat südländischen Tanzcharakter und wird ständig schneller bis zum explosiven Schluss.' },
+    { topic:'hoerbeispiele', type:'match', q:'Ordne die Stücke den Komponisten zu:', pairs:[['Solveigs Lied','Edvard Grieg'],['Nussknacker-Marsch','Tschaikowski'],['Farandole','Georges Bizet'],['Ave Maria','Franz Schubert']], options:['Edvard Grieg','Tschaikowski','Georges Bizet','Franz Schubert'] },
+    { topic:'hoerbeispiele', type:'mc', q:'Welches Stück erkennt man an gleichmäßigen Klavier-Arpeggien?', options:['Farandole','Nussknacker-Marsch','Ave Maria','Pomp and Circumstance'], correct:2, explanation:'Schuberts Ave Maria beginnt mit sanft fließenden Klavier-Arpeggien (gebrochene Akkorde).' },
+    { topic:'hoerbeispiele', type:'mc', q:'Welches Stück klingt wie eine Nationalhymne?', options:['Solveigs Lied','Ave Maria','Brahms 3. Sinfonie','Pomp and Circumstance'], correct:3, explanation:'Elgars Pomp and Circumstance (Trio) klingt hymnisch und majestätisch wie eine Nationalhymne ("Land of Hope and Glory").' },
+    { topic:'hoerbeispiele', type:'tf', q:'Solveigs Lied ist das einzige Hörbeispiel mit Gesang.', correct:true, explanation:'Solveigs Lied ist das einzige der sechs Hörbeispiele, das eine Singstimme (Sopran) hat.' },
+    { topic:'hoerbeispiele', type:'match', q:'Ordne die Stücke den Stimmungen zu:', pairs:[['Nussknacker-Marsch','Festlich, märchenhaft'],['Farandole','Wild, leidenschaftlich'],['Ave Maria','Andächtig, friedlich'],['Pomp and Circumstance','Feierlich, majestätisch']], options:['Festlich, märchenhaft','Wild, leidenschaftlich','Andächtig, friedlich','Feierlich, majestätisch'] },
     { topic:'hoerbeispiele', type:'mc', q:'Welcher Komponist schrieb die Farandole?', options:['Brahms','Tschaikowski','Grieg','Bizet'], correct:3, explanation:'Georges Bizet komponierte die Farandole als Teil seiner L\'Arlesienne-Suite.' },
-    { topic:'hoerbeispiele', type:'tf', q:'Die Brahms 3. Sinfonie ist das schnellste und wildeste der Hoerbeispiele.', correct:false, explanation:'Die Brahms-Sinfonie ist lyrisch und sehnsuechtig. Das schnellste Stueck ist Bizets Farandole.' },
-    { topic:'hoerbeispiele', type:'mc', q:'Welches Instrument praegt den 3. Satz von Brahms\' 3. Sinfonie?', options:['Trompete','Floete','Cello','Pauke'], correct:2, explanation:'Die wunderschoene Hauptmelodie wird von den Celli gespielt.' },
-    { topic:'hoerbeispiele', type:'free', q:'Erklaere, woran du Schuberts Ave Maria von den anderen Hoerbeispielen unterscheiden kannst.', keywords:['Klavier','Arpeggien','gebrochene Akkorde','ruhig','langsam','Singstimme','gleichmaessig','andaechtig','friedlich'], explanation:'Ave Maria erkennt man an den gleichmaessigen Klavier-Arpeggien (gebrochene Akkorde) von Anfang an, dem sehr ruhigen, getragenen Tempo, der andaechtigen Stimmung und der sanften Singstimme ohne dramatische Kontraste.' },
+    { topic:'hoerbeispiele', type:'tf', q:'Die Brahms 3. Sinfonie ist das schnellste und wildeste der Hörbeispiele.', correct:false, explanation:'Die Brahms-Sinfonie ist lyrisch und sehnsüchtig. Das schnellste Stück ist Bizets Farandole.' },
+    { topic:'hoerbeispiele', type:'mc', q:'Welches Instrument prägt den 3. Satz von Brahms\' 3. Sinfonie?', options:['Trompete','Flöte','Cello','Pauke'], correct:2, explanation:'Die wunderschöne Hauptmelodie wird von den Celli gespielt.' },
+    { topic:'hoerbeispiele', type:'free', q:'Erkläre, woran du Schuberts Ave Maria von den anderen Hörbeispielen unterscheiden kannst.', keywords:['Klavier','Arpeggien','gebrochene Akkorde','ruhig','langsam','Singstimme','gleichmäßig','andächtig','friedlich'], explanation:'Ave Maria erkennt man an den gleichmäßigen Klavier-Arpeggien (gebrochene Akkorde) von Anfang an, dem sehr ruhigen, getragenen Tempo, der andächtigen Stimmung und der sanften Singstimme ohne dramatische Kontraste.' },
 ];
 
 // ===== FLASHCARD DATA =====
 const flashcards = [
     { q:'Zeitraum der musikalischen Romantik?', a:'Ca. 1820-1910' },
     { q:'Welche Epoche geht der Romantik voraus?', a:'Die Wiener Klassik (Haydn, Mozart, Beethoven)' },
-    { q:'4 zentrale Themen der Romantik?', a:'Gefuehl, Natur, Sehnsucht, Fantasie' },
-    { q:'Was bedeutet Programmatik?', a:'Musik erzaehlt Geschichten oder beschreibt Bilder' },
+    { q:'4 zentrale Themen der Romantik?', a:'Gefühl, Natur, Sehnsucht, Fantasie' },
+    { q:'Was bedeutet Programmatik?', a:'Musik erzählt Geschichten oder beschreibt Bilder' },
     { q:'Was bedeutet Rubato?', a:'Freier Umgang mit dem Tempo zur Steigerung des Ausdrucks' },
     { q:'Lebensdaten Franz Schubert?', a:'1797-1828 (31 Jahre alt)' },
-    { q:'Wie viele Lieder schrieb Schubert?', a:'Ueber 600 Lieder' },
+    { q:'Wie viele Lieder schrieb Schubert?', a:'Über 600 Lieder' },
     { q:'Was ist das Besondere an Schuberts Klavierbegleitung?', a:'Das Klavier ist gleichwertiger Partner der Singstimme, nicht nur Begleitung' },
-    { q:'Was ist die Winterreise?', a:'Liederzyklus aus 24 Liedern nach Gedichten von Wilhelm Mueller (1827)' },
-    { q:'Grundstimmung der Winterreise?', a:'Duester, melancholisch, verzweifelt - Themen: Einsamkeit, Kaelte, Tod' },
-    { q:'Definition Kunstlied?', a:'Lied fuer Singstimme und Klavier auf einen literarischen Text, von bekanntem Komponisten' },
+    { q:'Was ist die Winterreise?', a:'Liederzyklus aus 24 Liedern nach Gedichten von Wilhelm Müller (1827)' },
+    { q:'Grundstimmung der Winterreise?', a:'Düster, melancholisch, verzweifelt - Themen: Einsamkeit, Kälte, Tod' },
+    { q:'Definition Kunstlied?', a:'Lied für Singstimme und Klavier auf einen literarischen Text, von bekanntem Komponisten' },
     { q:'Einfaches Strophenlied?', a:'Alle Strophen haben die gleiche Melodie (A-A-A-A)' },
-    { q:'Variiertes Strophenlied?', a:'Grundmelodie erkennbar, aber in einzelnen Strophen leicht veraendert (A-A\'-A-A\'\')' },
-    { q:'Durchkomponiertes Lied?', a:'Jede Strophe erhaelt neue, eigene Musik (A-B-C-D)' },
-    { q:'Beispiel einfaches Strophenlied?', a:'Schubert: "Das Wandern" (Die schoene Muellerin)' },
+    { q:'Variiertes Strophenlied?', a:'Grundmelodie erkennbar, aber in einzelnen Strophen leicht verändert (A-A\'-A-A\'\')' },
+    { q:'Durchkomponiertes Lied?', a:'Jede Strophe erhält neü, eigene Musik (A-B-C-D)' },
+    { q:'Beispiel einfaches Strophenlied?', a:'Schubert: "Das Wandern" (Die schöne Müllerin)' },
     { q:'Beispiel variiertes Strophenlied?', a:'Schubert: "Die Forelle"' },
-    { q:'Beispiel durchkomponiertes Lied?', a:'Schubert: "Erlkoenig"' },
+    { q:'Beispiel durchkomponiertes Lied?', a:'Schubert: "Erlkönig"' },
     { q:'Unterschied Volkslied - Kunstlied?', a:'Volkslied: unbekannter Komponist, einfach, Gemeinschaftsgesang. Kunstlied: bekannter Komponist, anspruchsvoll, Konzertvortrag.' },
-    { q:'Was bedeutet syllabische Vertonung?', a:'Jede Silbe = ein Ton. Wirkt klar und textverstaendlich.' },
-    { q:'Was bedeutet melismatische Vertonung?', a:'Eine Silbe auf mehrere Toene gesungen. Wirkt ausdrucksstark und emotional.' },
+    { q:'Was bedeutet syllabische Vertonung?', a:'Jede Silbe = ein Ton. Wirkt klar und textverständlich.' },
+    { q:'Was bedeutet melismatische Vertonung?', a:'Eine Silbe auf mehrere Töne gesungen. Wirkt ausdrucksstark und emotional.' },
     { q:'Was bedeutet Crescendo?', a:'Lauter werdend' },
     { q:'Was bedeutet Decrescendo?', a:'Leiser werdend' },
     { q:'Was bedeutet Adagio?', a:'Sehr langsam' },
     { q:'Was bedeutet Allegro?', a:'Schnell' },
     { q:'Dur-Tonart: Stimmung?', a:'Hell, freudig, positiv, hoffnungsvoll' },
     { q:'Moll-Tonart: Stimmung?', a:'Dunkel, traurig, melancholisch, dramatisch' },
-    { q:'Solveigs Lied - Komponist & Erkennungsmerkmal?', a:'Edvard Grieg. Einziges Stueck mit Gesang (Sopran), ruhig, skandinavisch.' },
+    { q:'Solveigs Lied - Komponist & Erkennungsmerkmal?', a:'Edvard Grieg. Einziges Stück mit Gesang (Sopran), ruhig, skandinavisch.' },
     { q:'Nussknacker-Marsch - Erkennungsmerkmal?', a:'Tschaikowski. Klarer Marsch-Rhythmus, Trompetenfanfaren.' },
-    { q:'Farandole - Erkennungsmerkmal?', a:'Georges Bizet. Am schnellsten, suedlaendisch, staendige Steigerung.' },
-    { q:'Ave Maria - Erkennungsmerkmal?', a:'Franz Schubert. Gleichmaessige Klavier-Arpeggien, sehr ruhig, gebaetsartig.' },
-    { q:'Brahms 3. Sinfonie - Erkennungsmerkmal?', a:'Johannes Brahms. Sehnsuechtige Cellomelodie, wiegend, warm.' },
-    { q:'Pomp and Circumstance - Erkennungsmerkmal?', a:'Edward Elgar. Am feierlichsten, hymnenartig, Blechblaeser, klingt wie Nationalhymne.' },
+    { q:'Farandole - Erkennungsmerkmal?', a:'Georges Bizet. Am schnellsten, südländisch, ständige Steigerung.' },
+    { q:'Ave Maria - Erkennungsmerkmal?', a:'Franz Schubert. Gleichmäßige Klavier-Arpeggien, sehr ruhig, gebätsartig.' },
+    { q:'Brahms 3. Sinfonie - Erkennungsmerkmal?', a:'Johannes Brahms. Sehnsüchtige Cellomelodie, wiegend, warm.' },
+    { q:'Pomp and Circumstance - Erkennungsmerkmal?', a:'Edward Elgar. Am feierlichsten, hymnenartig, Blechbläser, klingt wie Nationalhymne.' },
     { q:'Wie erzeugt man traurige Stimmung in Musik?', a:'Moll + langsames Tempo + leise Dynamik + absteigende Melodie + tiefe Tonlage' },
-    { q:'Wie erzeugt man froehliche Stimmung?', a:'Dur + schnelles Tempo + mittlere/laute Dynamik + aufsteigende Melodie + helle Tonlage' },
-    { q:'Welche Rolle hat die Klavierbegleitung im Kunstlied?', a:'Gleichwertiger Partner: malt Stimmungen, Naturbilder und Gefuehle, nicht nur Begleitung.' },
-    { q:'Was ist Wortmalerei?', a:'Musikalische Nachahmung von im Text beschriebenen Klaengen (z.B. Wellenrauschen im Klavier)' },
+    { q:'Wie erzeugt man fröhliche Stimmung?', a:'Dur + schnelles Tempo + mittlere/laute Dynamik + aufsteigende Melodie + helle Tonlage' },
+    { q:'Welche Rolle hat die Klavierbegleitung im Kunstlied?', a:'Gleichwertiger Partner: malt Stimmungen, Naturbilder und Gefühle, nicht nur Begleitung.' },
+    { q:'Was ist Wortmalerei?', a:'Musikalische Nachahmung von im Text beschriebenen Klängen (z.B. Wellenrauschen im Klavier)' },
 ];
 
 // ===== GUIDED MODE BLOCKS =====
@@ -609,7 +609,7 @@ const guidedBlocks = {
         { topic:'schubert', label:'Schubert & Winterreise', learnMin:2.5, quizMin:1.5 },
         { topic:'kunstlied', label:'Kunstlied & Liedformen', learnMin:3, quizMin:2 },
         { topic:'analyse', label:'Musikalische Analyse', learnMin:2.5, quizMin:1.5 },
-        { topic:'hoerbeispiele', label:'Hoerbeispiele', learnMin:3, quizMin:2 },
+        { topic:'hoerbeispiele', label:'Hörbeispiele', learnMin:3, quizMin:2 },
         { topic:'final', label:'Abschlusstest', learnMin:0, quizMin:8 },
     ],
     45: [
@@ -617,7 +617,7 @@ const guidedBlocks = {
         { topic:'schubert', label:'Schubert & Winterreise', learnMin:3, quizMin:2 },
         { topic:'kunstlied', label:'Kunstlied & Liedformen', learnMin:4, quizMin:3 },
         { topic:'analyse', label:'Musikalische Analyse', learnMin:3.5, quizMin:2.5 },
-        { topic:'hoerbeispiele', label:'Hoerbeispiele', learnMin:6, quizMin:4 },
+        { topic:'hoerbeispiele', label:'Hörbeispiele', learnMin:6, quizMin:4 },
         { topic:'final', label:'Abschlusstest', learnMin:0, quizMin:12 },
     ]
 };
@@ -628,7 +628,7 @@ const guidedBlocks = {
 document.addEventListener('DOMContentLoaded', () => {
     applyTheme();
     renderLernzettel();
-    renderHoerbeispiele();
+    renderHörbeispiele();
     updateStats();
     document.querySelector('.logo').addEventListener('click', () => {
         if (state.guidedRunning) { if(confirm('Lernmodus beenden?')) endGuided(); }
@@ -684,10 +684,10 @@ function renderLernzettel() {
         if (key === 'hoerbeispiele') return;
         document.getElementById(`lz-${key}`).innerHTML = topics[key].content;
     });
-    renderHoerbeispieleLernzettel();
+    renderHörbeispieleLernzettel();
 }
 
-function renderHoerbeispieleLernzettel() {
+function renderHörbeispieleLernzettel() {
     let html = '';
     audioExamples.forEach(ex => {
         html += `
@@ -701,8 +701,8 @@ function renderHoerbeispieleLernzettel() {
     <p><strong>Stimmung:</strong> ${ex.stimmung}</p>
     <p><strong>Merkmale:</strong> ${ex.merkmale}</p>
     <p><strong>Unterscheidung:</strong> ${ex.unterscheidung}</p>
-    <div class="mnemonic">Eselsbruecke: ${ex.eselsbruecke}</div>
-    <a href="https://www.youtube.com/results?search_query=${encodeURIComponent(ex.ytSearch)}" target="_blank" rel="noopener" class="play-btn">&#9654; Auf YouTube anhoeren</a>
+    <div class="mnemonic">Eselsbrücke: ${ex.eselsbrücke}</div>
+    <a href="https://www.youtube.com/results?search_qüry=${encodeURIComponent(ex.ytSearch)}" target="_blank" rel="noopener" class="play-btn">&#9654; Auf YouTube anhören</a>
 </div>`;
     });
     document.getElementById('lz-hoerbeispiele').innerHTML = html;
@@ -711,7 +711,7 @@ function renderHoerbeispieleLernzettel() {
 // ═══════════════════════════════════════════════════════════
 // HOERTRAINER
 // ═══════════════════════════════════════════════════════════
-function renderHoerbeispiele() {
+function renderHörbeispiele() {
     // Lernkarten
     let kartenHtml = '';
     audioExamples.forEach(ex => {
@@ -726,19 +726,19 @@ function renderHoerbeispiele() {
     <p><strong>Stimmung:</strong> ${ex.stimmung}</p>
     <p><strong>Merkmale:</strong> ${ex.merkmale}</p>
     <p><strong>Unterscheidung:</strong> ${ex.unterscheidung}</p>
-    <div class="mnemonic">Eselsbruecke: ${ex.eselsbruecke}</div>
-    <a href="https://www.youtube.com/results?search_query=${encodeURIComponent(ex.ytSearch)}" target="_blank" rel="noopener" class="play-btn">&#9654; Auf YouTube anhoeren</a>
+    <div class="mnemonic">Eselsbrücke: ${ex.eselsbrücke}</div>
+    <a href="https://www.youtube.com/results?search_qüry=${encodeURIComponent(ex.ytSearch)}" target="_blank" rel="noopener" class="play-btn">&#9654; Auf YouTube anhören</a>
 </div>`;
     });
     document.getElementById('ht-karten').innerHTML = kartenHtml;
 
-    // Hoertest
+    // Hörtest
     renderListeningTest();
 }
 
 function renderListeningTest() {
     const shuffled = [...audioExamples].sort(() => Math.random() - 0.5);
-    let html = '<h2>Hoertest</h2><p style="color:var(--text2);margin-bottom:1rem;">Hoere dir jedes Stueck an und waehle den richtigen Titel und Komponisten.</p>';
+    let html = '<h2>Hörtest</h2><p style="color:var(--text2);margin-bottom:1rem;">Höre dir jedes Stück an und wähle den richtigen Titel und Komponisten.</p>';
 
     shuffled.forEach((ex, i) => {
         const otherOptions = audioExamples.filter(o => o.id !== ex.id).sort(() => Math.random() - 0.5).slice(0, 3);
@@ -746,8 +746,8 @@ function renderListeningTest() {
 
         html += `
 <div class="listen-card" id="listen-${i}">
-    <div class="listen-num">Stueck ${i + 1}</div>
-    <a href="https://www.youtube.com/results?search_query=${encodeURIComponent(ex.ytSearch)}" target="_blank" rel="noopener" class="play-btn" style="margin-bottom:1rem;">&#9654; Stueck anhoeren (YouTube)</a>
+    <div class="listen-num">Stück ${i + 1}</div>
+    <a href="https://www.youtube.com/results?search_qüry=${encodeURIComponent(ex.ytSearch)}" target="_blank" rel="noopener" class="play-btn" style="margin-bottom:1rem;">&#9654; Stück anhören (YouTube)</a>
     <div class="q-options" style="margin-top:1rem;">
         ${options.map((o, j) => `
         <label class="q-option" onclick="selectListenOption(${i},${j})">
@@ -759,7 +759,7 @@ function renderListeningTest() {
 </div>`;
     });
 
-    html += `<button class="action-btn full" onclick="checkListeningTest()">Hoertest auswerten</button>
+    html += `<button class="action-btn full" onclick="checkListeningTest()">Hörtest auswerten</button>
              <div id="listen-result" style="margin-top:1rem;"></div>`;
 
     document.getElementById('ht-test').innerHTML = html;
@@ -914,15 +914,15 @@ function startBlock() {
     let content = `
 <div class="learn-phase">
     <h2>${block.label}</h2>
-    <p>Lies den Lernzettel aufmerksam durch und praege dir die Informationen ein.</p>
+    <p>Lies den Lernzettel aufmerksam durch und präge dir die Informationen ein.</p>
 </div>
 <div class="phase-indicator">
     ${blocks.map((b, i) => `<div class="phase-dot ${i < state.guidedBlockIndex ? 'done' : ''} ${i === state.guidedBlockIndex ? 'active' : ''}"></div>`).join('')}
 </div>
-<div class="memorize-notice" id="memorizeNotice" style="display:none;">Die Informationen werden gleich ausgeblendet. Praege dir alles ein!</div>
+<div class="memorize-notice" id="memorizeNotice" style="display:none;">Die Informationen werden gleich ausgeblendet. Präge dir alles ein!</div>
 ${topics[block.topic]?.content || ''}
 <div style="text-align:center;margin-top:1rem;">
-    <button class="action-btn" onclick="startBlockQuiz()">Ich bin bereit fuer die Fragen &rarr;</button>
+    <button class="action-btn" onclick="startBlockQuiz()">Ich bin bereit für die Fragen &rarr;</button>
 </div>`;
 
     document.getElementById('guidedContent').innerHTML = content;
@@ -950,14 +950,14 @@ function startBlockQuiz() {
     let html = `
 <div class="learn-phase">
     <h2>Kontrollfragen: ${block.label}</h2>
-    <p>Beantworte die Fragen aus dem Gedaechtnis.</p>
+    <p>Beantworte die Fragen aus dem Gedächtnis.</p>
 </div>`;
 
     topicQuestions.forEach((q, i) => {
         html += renderQuestion(q, `guided-${state.guidedBlockIndex}-${i}`);
     });
 
-    html += `<button class="action-btn full" onclick="finishBlockQuiz()">Antworten ueberpruefen</button>`;
+    html += `<button class="action-btn full" onclick="finishBlockQuiz()">Antworten überprüfen</button>`;
 
     document.getElementById('guidedContent').innerHTML = html;
     window.scrollTo({ top: 0 });
@@ -983,7 +983,7 @@ function finishBlockQuiz() {
     nextBtn.style.marginTop = '1rem';
 
     if (state.guidedBlockIndex < blocks.length - 1) {
-        nextBtn.innerHTML = `<button class="action-btn" onclick="nextBlock()">Weiter zum naechsten Thema &rarr;</button>
+        nextBtn.innerHTML = `<button class="action-btn" onclick="nextBlock()">Weiter zum nächsten Thema &rarr;</button>
         <button class="action-btn secondary" onclick="repeatBlock()" style="margin-left:0.5rem;">Block wiederholen</button>`;
     }
     container.appendChild(nextBtn);
@@ -1144,7 +1144,7 @@ function confirmExit() {
 // QUESTION RENDERING
 // ═══════════════════════════════════════════════════════════
 function renderQuestion(q, qId) {
-    const topicLabels = { romantik:'Romantik', schubert:'Schubert', kunstlied:'Kunstlied', analyse:'Analyse', hoerbeispiele:'Hoerbeispiele' };
+    const topicLabels = { romantik:'Romantik', schubert:'Schubert', kunstlied:'Kunstlied', analyse:'Analyse', hörbeispiele:'Hörbeispiele' };
     let html = `<div class="question-card" data-qid="${qId}" data-topic="${q.topic}" data-type="${q.type}">`;
     html += `<div class="q-label">${topicLabels[q.topic] || q.topic}</div>`;
     html += `<div class="q-text">${q.q}</div>`;
@@ -1179,7 +1179,7 @@ function renderQuestion(q, qId) {
             html += `<div class="match-left">${left}</div>
                      <div class="match-arrow">&rarr;</div>
                      <select class="match-select" data-correct="${right}" data-index="${i}">
-                         <option value="">-- Waehlen --</option>
+                         <option value="">-- Wählen --</option>
                          ${shuffledOptions.map(o => `<option value="${o}">${o}</option>`).join('')}
                      </select>`;
         });
@@ -1242,7 +1242,7 @@ function checkQuestionCard(card, qId) {
         const input = card.querySelector('.gap-answer');
         const correct = input.dataset.answer.toLowerCase().trim();
         const user = input.value.toLowerCase().trim();
-        isCorrect = user === correct || user.replace(/[äöü]/g, m => ({ä:'ae',ö:'oe',ü:'ue'}[m])) === correct.replace(/[äöü]/g, m => ({ä:'ae',ö:'oe',ü:'ue'}[m]));
+        isCorrect = user === correct || user.replace(/[äöü]/g, m => ({ä:'ä',ö:'ö',ü:'ü'}[m])) === correct.replace(/[äöü]/g, m => ({ä:'ä',ö:'ö',ü:'ü'}[m]));
         input.classList.add(isCorrect ? 'correct' : 'wrong');
         if (!isCorrect) {
             fb.innerHTML = `Richtige Antwort: <strong>${input.dataset.answer}</strong>`;
@@ -1255,7 +1255,7 @@ function checkQuestionCard(card, qId) {
         const ratio = found.length / keywords.length;
         isCorrect = ratio >= 0.5;
         textarea.classList.add(ratio >= 0.5 ? 'correct' : 'wrong');
-        fb.innerHTML = `${found.length}/${keywords.length} Schluesselbegriffe gefunden. ${ratio < 0.5 ? 'Fehlende Begriffe: ' + keywords.filter(k => !found.includes(k.toLowerCase()) && !userText.includes(k.toLowerCase())).join(', ') : 'Gut!'}`;
+        fb.innerHTML = `${found.length}/${keywords.length} Schlüsselbegriffe gefunden. ${ratio < 0.5 ? 'Fehlende Begriffe: ' + keywords.filter(k => !found.includes(k.toLowerCase()) && !userText.includes(k.toLowerCase())).join(', ') : 'Gut!'}`;
     } else if (type === 'match') {
         const selects = card.querySelectorAll('.match-select');
         let matchCorrect = 0;
@@ -1381,7 +1381,7 @@ function gradeExam(prefix) {
 // RESULTS
 // ═══════════════════════════════════════════════════════════
 function showResults(results) {
-    const topicLabels = { romantik:'Romantik', schubert:'Schubert', kunstlied:'Kunstlied', analyse:'Analyse', hoerbeispiele:'Hoerbeispiele' };
+    const topicLabels = { romantik:'Romantik', schubert:'Schubert', kunstlied:'Kunstlied', analyse:'Analyse', hörbeispiele:'Hörbeispiele' };
     const barColor = results.percentage >= 80 ? 'var(--green)' : results.percentage >= 60 ? 'var(--yellow)' : 'var(--red)';
 
     let html = `
@@ -1406,21 +1406,21 @@ function showResults(results) {
     // Strengths & Weaknesses
     const sortedTopics = Object.entries(results.topicResults).map(([t, d]) => ({ topic: t, pct: d.total > 0 ? d.correct/d.total : 0 })).sort((a, b) => b.pct - a.pct);
 
-    html += `<div class="result-section"><h3>Staerken</h3>`;
+    html += `<div class="result-section"><h3>Stärken</h3>`;
     const strengths = sortedTopics.filter(t => t.pct >= 0.7);
     if (strengths.length > 0) {
         strengths.forEach(t => { html += `<div class="highlight-box" style="border-left-color:var(--green);">${topicLabels[t.topic] || t.topic} (${Math.round(t.pct*100)}%)</div>`; });
     } else {
-        html += `<p style="color:var(--text2);">Noch keine deutlichen Staerken erkennbar. Wiederhole die Themen!</p>`;
+        html += `<p style="color:var(--text2);">Noch keine deutlichen Stärken erkennbar. Wiederhole die Themen!</p>`;
     }
     html += `</div>`;
 
-    html += `<div class="result-section"><h3>Schwaechen - hier solltest du nochmal lernen</h3>`;
+    html += `<div class="result-section"><h3>Schwächen - hier solltest du nochmal lernen</h3>`;
     const weaknesses = sortedTopics.filter(t => t.pct < 0.7);
     if (weaknesses.length > 0) {
         weaknesses.forEach(t => { html += `<div class="highlight-box" style="border-left-color:var(--red);">${topicLabels[t.topic] || t.topic} (${Math.round(t.pct*100)}%)</div>`; });
     } else {
-        html += `<p style="color:var(--green);">Keine Schwaechen - super Ergebnis!</p>`;
+        html += `<p style="color:var(--green);">Keine Schwächen - super Ergebnis!</p>`;
     }
     html += `</div>`;
 
@@ -1439,19 +1439,19 @@ function showResults(results) {
     // Recommendation
     html += `<div class="result-section"><h3>Empfehlung</h3>`;
     if (results.percentage >= 90) {
-        html += `<div class="highlight-box" style="border-left-color:var(--green);">Ausgezeichnet! Du bist sehr gut vorbereitet. Wiederhole zur Sicherheit die Hoerbeispiele.</div>`;
+        html += `<div class="highlight-box" style="border-left-color:var(--green);">Ausgezeichnet! Du bist sehr gut vorbereitet. Wiederhole zur Sicherheit die Hörbeispiele.</div>`;
     } else if (results.percentage >= 70) {
         html += `<div class="highlight-box" style="border-left-color:var(--yellow);">Gutes Ergebnis! Wiederhole die Themen mit weniger als 70% und trainiere die Fehler.</div>`;
     } else {
-        html += `<div class="highlight-box" style="border-left-color:var(--red);">Du solltest die Themen nochmal durcharbeiten. Starte eine neue Lerneinheit und konzentriere dich auf deine Schwaechen.</div>`;
+        html += `<div class="highlight-box" style="border-left-color:var(--red);">Du solltest die Themen nochmal durcharbeiten. Starte eine neü Lerneinheit und konzentriere dich auf deine Schwächen.</div>`;
     }
     html += `</div>`;
 
     // Action buttons
     html += `<div style="display:flex;gap:0.75rem;flex-wrap:wrap;margin-top:1.5rem;">
-        <button class="action-btn" onclick="showPage('home')">Zurueck zur Startseite</button>
+        <button class="action-btn" onclick="showPage('home')">Zurück zur Startseite</button>
         <button class="action-btn secondary" onclick="startErrorTraining()">Fehler trainieren (${results.wrongAnswers.length})</button>
-        <button class="action-btn secondary" onclick="startExam()">Neue Probeklausur</button>
+        <button class="action-btn secondary" onclick="startExam()">Neü Probeklausur</button>
     </div>`;
 
     document.getElementById('resultsContent').innerHTML = html;
@@ -1464,7 +1464,7 @@ function showResults(results) {
 // ═══════════════════════════════════════════════════════════
 function startErrorTraining() {
     if (state.wrongQuestions.length === 0) {
-        alert('Keine Fehler zum Wiederholen vorhanden. Starte zuerst eine Probeklausur!');
+        alert('Keine Fehler zum Wiederholen vorhanden. Starte zürst eine Probeklausur!');
         return;
     }
 
@@ -1519,7 +1519,7 @@ function startQuickReview() {
     const qs = [...questionPool].sort(() => Math.random() - 0.5).slice(0, 10);
     state.examQuestions = qs;
 
-    let html = '<h1>5-Minuten-Wiederholung</h1><p style="color:var(--text2);margin-bottom:1.5rem;">10 zufaellige Fragen quer durch alle Themen.</p>';
+    let html = '<h1>5-Minuten-Wiederholung</h1><p style="color:var(--text2);margin-bottom:1.5rem;">10 zufällige Fragen qür durch alle Themen.</p>';
     qs.forEach((q, i) => {
         html += renderQuestion(q, `quick-${i}`);
     });

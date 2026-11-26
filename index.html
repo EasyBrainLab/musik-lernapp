@@ -56,7 +56,7 @@
                 <div class="home-card primary" onclick="startGuided(45)">
                     <div class="card-icon">45</div>
                     <h3>45 Min lernen</h3>
-                    <p>Ausfuehrlich mit mehr Zeit</p>
+                    <p>Ausführlich mit mehr Zeit</p>
                 </div>
                 <div class="home-card" onclick="showPage('lernzettel')">
                     <div class="card-icon-sm">&#x1F4CB;</div>
@@ -68,7 +68,7 @@
                 </div>
                 <div class="home-card" onclick="showPage('hoertrainer')">
                     <div class="card-icon-sm">&#x1F3B5;</div>
-                    <h3>Hoerbeispiele</h3>
+                    <h3>Hörbeispiele</h3>
                 </div>
                 <div class="home-card" onclick="startExam()">
                     <div class="card-icon-sm">&#x1F4DD;</div>
@@ -90,14 +90,14 @@
 
         <!-- ==================== LERNZETTEL ==================== -->
         <section id="lernzettel" class="page">
-            <button class="back-btn" onclick="showPage('home')">&larr; Zurueck</button>
+            <button class="back-btn" onclick="showPage('home')">&larr; Zurück</button>
             <h1>Kompakter Lernzettel</h1>
             <div class="tabs" id="lernzettelTabs">
                 <button class="tab active" onclick="showTab('lz','romantik',this)">Romantik</button>
                 <button class="tab" onclick="showTab('lz','schubert',this)">Schubert</button>
                 <button class="tab" onclick="showTab('lz','kunstlied',this)">Kunstlied</button>
                 <button class="tab" onclick="showTab('lz','analyse',this)">Analyse</button>
-                <button class="tab" onclick="showTab('lz','hoerbeispiele',this)">Hoerbeispiele</button>
+                <button class="tab" onclick="showTab('lz','hoerbeispiele',this)">Hörbeispiele</button>
             </div>
             <div id="lz-romantik" class="tab-content active"></div>
             <div id="lz-schubert" class="tab-content"></div>
@@ -108,7 +108,7 @@
 
         <!-- ==================== KARTEIKARTEN ==================== -->
         <section id="karteikarten" class="page">
-            <button class="back-btn" onclick="showPage('home')">&larr; Zurueck</button>
+            <button class="back-btn" onclick="showPage('home')">&larr; Zurück</button>
             <h1>Karteikarten</h1>
             <div class="flashcard-controls">
                 <span id="fcProgress">1 / 30</span>
@@ -129,18 +129,18 @@
                 <button class="fc-btn green" onclick="markCard('known')">Kann ich</button>
             </div>
             <div class="fc-nav">
-                <button class="ctrl-btn" onclick="prevCard()">&larr; Zurueck</button>
+                <button class="ctrl-btn" onclick="prevCard()">&larr; Zurück</button>
                 <button class="ctrl-btn" onclick="nextCard()">Weiter &rarr;</button>
             </div>
         </section>
 
         <!-- ==================== HOERTRAINER ==================== -->
         <section id="hoertrainer" class="page">
-            <button class="back-btn" onclick="showPage('home')">&larr; Zurueck</button>
-            <h1>Hoerbeispiele & Hoertrainer</h1>
+            <button class="back-btn" onclick="showPage('home')">&larr; Zurück</button>
+            <h1>Hörbeispiele & Hörtrainer</h1>
             <div class="tabs">
                 <button class="tab active" onclick="showTab('ht','karten',this)">Lernkarten</button>
-                <button class="tab" onclick="showTab('ht','test',this)">Hoertest</button>
+                <button class="tab" onclick="showTab('ht','test',this)">Hörtest</button>
             </div>
             <div id="ht-karten" class="tab-content active" ></div>
             <div id="ht-test" class="tab-content"></div>
